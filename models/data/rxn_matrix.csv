@@ -1,0 +1,1586 @@
+reaction,description,DSM27147_S345,M10_S153,M11_S154,M13_S155,M14_S347,M1_S149,M2_S150,M4_S151,M6_S346,M8_S152,W289_S348,W290_S156,W291_S157,W292_S349,W293_S158,W294_S159,W295_S160,W296_S350,W298_S161
+12DGR120tipp,"1,2 diacylglycerol transport via flipping (periplasm to cytoplasm, n-C12:0)",1,1,1,1,1,1,1,0,1,1,0,1,1,0,1,1,1,1,1
+12DGR140tipp,"1,2 diacylglycerol transport via flipping (periplasm to cytoplasm, n-C14:0)",1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+12DGR141tipp,"1,2 diacylglycerol transport via flipping (periplasm to cytoplasm, n-C14:1)",0,1,1,1,1,1,0,0,1,0,0,0,0,0,1,1,1,1,0
+12DGR160tipp,"1,2 diacylglycerol transport via flipping (periplasm to cytoplasm, n-C16:0)",1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+12DGR161tipp,"1,2 diacylglycerol transport via flipping (periplasm to cytoplasm, n-C16:1)",0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,1
+12DGR180tipp,"1,2 diacylglycerol transport via flipping (periplasm to cytoplasm, n-C18:0)",1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+12DGR181tipp,"1,2 diacylglycerol transport via flipping (periplasm to cytoplasm, n-C18:1)",1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+23CCMPtex,23cCMP transport via diffusion (extracellular to periplasm),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+23PDE4pp,"2',3'-cyclic-nucleotide phosphodiesterase (CMP) (periplasm)",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+24DECOAR,2 4 dienoyl CoA reductase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+26DAHtex,"Meso-2,6-Diaminoheptanedioate transport via diffusion (extracellular to periplasm)",1,1,1,1,1,1,0,0,1,1,0,1,1,0,1,1,1,1,0
+2AGPA120tipp,2-Acyl-sn-glycero-3-phosphatidate (n-C12:0) transporter via facilitated diffusion (periplasm),0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0
+2AGPA141tipp,2-Acyl-sn-glycero-3-phosphatidate (n-C14:1) transporter via facilitated diffusion (periplasm),1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+2AGPA161tipp,2-Acyl-sn-glycero-3-phosphatidate (n-C16:1) transporter via facilitated diffusion (periplasm),1,0,0,0,0,0,1,0,0,1,0,1,1,0,0,0,0,0,0
+2AGPE120tipp,2-Acyl-sn-glycero-3-phosphoethanolamine (n-C12:0) transporter via facilitated diffusion (periplasm),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2AGPE141tipp,2-Acyl-sn-glycero-3-phosphoethanolamine (n-C14:1) transporter via facilitated diffusion (periplasm),1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+2AGPE161tipp,2-Acyl-sn-glycero-3-phosphoethanolamine (n-C16:1) transporter via facilitated diffusion (periplasm),1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+2AGPEAT120,2-acyl-glycerophospho-ethanolamine acyltransferase (n-C12:0),0,1,1,1,1,1,0,1,1,0,1,0,0,1,1,1,1,1,1
+2AGPEAT141,2-acyl-glycerophospho-ethanolamine acyltransferase (n-C14:1),1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+2AGPEAT161,2-acyl-glycerophospho-ethanolamine acyltransferase (n-C16:1),1,0,0,0,0,0,1,0,0,1,0,1,1,0,0,0,0,0,0
+2AGPG120tipp,2-Acyl-sn-glycero-3-phosphoglycerol (n-C12:0) transporter via facilitated diffusion (periplasm),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2AGPG140tipp,2-Acyl-sn-glycero-3-phosphoglycerol (n-C14:0) transporter via facilitated diffusion (periplasm),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2AGPG141tipp,2-Acyl-sn-glycero-3-phosphoglycerol (n-C14:1) transporter via facilitated diffusion (periplasm),1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2AGPG160tipp,2-Acyl-sn-glycero-3-phosphoglycerol (n-C16:0) transporter via facilitated diffusion (periplasm),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2AGPG161tipp,2-Acyl-sn-glycero-3-phosphoglycerol (n-C16:1) transporter via facilitated diffusion (periplasm),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2AGPG180tipp,2-Acyl-sn-glycero-3-phosphoglycerol (n-C18:0) transporter via facilitated diffusion (periplasm),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2AGPG181tipp,2-Acyl-sn-glycero-3-phosphoglycerol (n-C18:1) transporter via facilitated diffusion (periplasm),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2AGPGAT120,2-acyl-glycerophospho-glycerol acyltransferase (n-C12:0),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0
+2AGPGAT140,2-acyl-glycerophospho-glycerol acyltransferase (n-C14:0),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2AGPGAT141,2-acyl-glycerophospho-glycerol acyltransferase (n-C14:1),1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2AGPGAT160,2-acyl-glycerophospho-glycerol acyltransferase (n-C16:0),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2AGPGAT161,2-acyl-glycerophospho-glycerol acyltransferase (n-C16:1),0,1,1,1,1,1,0,0,1,0,0,0,0,0,1,1,1,1,0
+2AGPGAT180,2-acyl-glycerophospho-glycerol acyltransferase (n-C18:0),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2AGPGAT181,2-acyl-glycerophospho-glycerol acyltransferase (n-C18:1),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2DHPFALDL,2-dehydropantoate formaldehyde-lyase (3-methyl-2-oxobutanoate-forming),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2HXMPt6,2  hydroxymethyl phenol transport inout via proton symport,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2MBALDt,2 Methylbutanal transport  extracellular,1,1,0,0,0,1,0,1,1,0,1,1,1,1,1,1,1,0,0
+2PGLYCt6,2 Phosphoglycolate transport inout via proton symport,1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+2S6HCCi,2 succinyl 6 hydroxy 2 4 cyclohexadiene 1 carboxylate synthase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+3A2OA,3-Aminopropanoate 2-oxoglutarate aminotransferase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+3MOPDC,3 Methyl 2 oxopentanoate decarboxylase,0,0,1,1,1,0,1,0,0,1,0,0,0,0,0,0,0,1,1
+3NTD4pp,3'-nucleotidase (CMP) (periplasm),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3PEPTabcpp,Tripeptide (LalaDgluMdap) transport via ABC system (periplasm),1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+3PEPTtex,LalaDgluMdap (tripeptide) transport via diffusion (extracellular to periplasm),0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0
+4ABUTD,4-Aminobutyraldehyde:NAD+ oxidoreductase,1,1,1,0,0,1,1,0,1,0,0,1,1,0,1,0,1,1,0
+4ABUTabcpp,GABA transport via ABC system  periplasm,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+4ABZt,4 Aminobenzoate mitochondrial transport via diffusion,0,0,0,1,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+4HALDD,Aldehyde dehydrogenase  4 hydroxyphenylacetaldehyde  NAD,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+4HBADH,4 hydroxy benzyl alcohol dehydrogenase,1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+4HBAt,MNXR68734,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+4HBCOAH,4-hydroxybutanoyl-CoA dehydratase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+4HOXPACMOF,4 hydroxyphenylacetate 3 monooxygenase FADH2,1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+4PCP,"Tetrapeptide L,D-carboxypeptidase",1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+4PEPTabcpp,Tetrapeptide (LalaDgluMdapDala) transport via ABC system (periplasm),1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+5DOAN,5'-deoxyadenosine nuclosidase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+5HBZIDMT,5-hydroxybenzimidazole methyltransferase,0,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+5HBZIDS2,5-hydroxybenzimidazole synthase,0,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+6PHBG,6-phospho-beta-glucosidase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+6PHBG2,Salicin 6-phosphate glucohydrolase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+6PHBG_2,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A24T,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A4GA,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A4HBCT,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A4PA,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A6PAG,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A6PAG2,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+AAAN,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+AACPS2,Acyl-[acyl-carrier-protein] synthetase  (n-C14:1),1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+AACPS4,Acyl-[acyl-carrier-protein] synthetase  (n-C16:1),1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+AACPS7,Acyl-[acyl-carrier-protein] synthetase  (n-C12:0),1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+AACPS9,Acyl-[acyl-carrier-protein] synthetase  (n-C8:0),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+AACT,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+AACTOOR,Aminoacetone:oxygen oxidoreductase(deaminating)(flavin-containing),1,0,1,0,0,0,1,1,0,1,1,1,1,1,0,1,1,1,1
+AB6PGH,Arbutin 6-phosphate glucohydrolase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+AB6PGH_1,Arbutin 6-phosphate glucohydrolase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ABFPT2,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ABG4t2,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ABTA,4-aminobutyrate transaminase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ABUTD,Aminobutyraldehyde dehydrogenase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ABUTtex,4-aminobutyrate transport via diffusion (extracellular to periplasm),1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ACACCT,Acetyl-CoA:acetoacetyl-CoA transferase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ACACT5r_1,Acetyl CoA C acyltransferase  decanoyl CoA,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ACALD,Acetaldehyde dehydrogenase (acetylating),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ACALDt,Acetaldehyde reversible transport,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ACALDtpp,Acetaldehyde reversible transport (periplasm),0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+ACCOAC,Acetyl-CoA carboxylase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ACGAMK,N-acetylglucosamine kinase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ACGApts,N-Acetyl-D-glucosamine transport via PEP:Pyr PTS,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ACGK,Acetylglutamate kinase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ACGLUtd,"Transport of N-Acetyl-L-Glutamate, Diffusion",1,1,1,1,0,1,1,1,0,0,1,1,1,1,0,1,1,1,1
+ACGS,N-acetylglutamate synthase,0,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0
+ACHBS,2-aceto-2-hydroxybutanoate synthase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ACKr,Acetate kinase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ACLS,Acetolactate synthase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ACM6PH,N-acetylmuramate 6-phosphate hydrolase,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1
+ACNAMt2,N-acetylneuraminate proton symport,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ACNML,N-Acetylneuraminate lyase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ACOAD1,Acyl-CoA dehydrogenase (butanoyl-CoA),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ACOAD1f,Acyl-CoA dehydrogenase (butanoyl-CoA),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ACOAD1fr,Acyl-CoA dehydrogenase (butanoyl-CoA),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ACOAD2,Acyl-CoA dehydrogenase (hexanoyl-CoA),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ACOAD2f,Acyl-CoA dehydrogenase (hexanoyl-CoA),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+ACOAD3,Acyl-CoA dehydrogenase (octanoyl-CoA),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ACOAD3f,Acyl-CoA dehydrogenase (octanoyl-CoA),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+ACOAD4_1,Acyl CoA dehydrogenase  decanoyl CoA,1,0,0,0,1,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+ACOAD5_1,Acyl CoA dehydrogenase  dodecanoyl CoA,1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+ACOAD6,Acyl-CoA dehydrogenase (tetradecanoyl-CoA),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ACOAD6f,Acyl-CoA dehydrogenase (tetradecanoyl-CoA),0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+ACOAD7,Acyl-CoA dehydrogenase (hexadecanoyl-CoA),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ACODA,Acetylornithine deacetylase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ACONTa,"Aconitase (half-reaction A, Citrate hydro-lyase)",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ACONTb,"Aconitase (half-reaction B, Isocitrate hydro-lyase)",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ACOTA,Acetylornithine transaminase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ACOXT,Acetyl-CoA:oxalate CoA-transferase,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ACP1_FMN,Acid phosphatase (FMN),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ACPPAT120,Acyl-(acyl carrier protein):phosphate acyltransferase (C12:0),1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+ACPPAT141,Acyl-(acyl carrier protein):phosphate acyltransferase (C14:1),1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+ACPPAT161,Acyl-(acyl carrier protein):phosphate acyltransferase (C16:1),1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+ACPPD,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ACS,Acetyl-CoA synthetase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ACSERHS,O3-Acetyl-L-serine acetate-lyase (adding hydrogen sulfide),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ACSPHAC101,R 3 Hydroxyacid Acyl CoA Synthetase  C101,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ACTD,Acetoin dehydrogenase,1,1,0,1,0,0,0,1,0,1,1,0,0,1,0,0,1,0,0
+ACTD_1,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ACTDa,Acetoin dehydrogenase,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+ACTNabc,Acetoin transport via ABC system,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ACTNabc1,Acetoin efflux  via ABC system,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ADA,Adenosine deaminase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ADAPAT,"E N-acetyl-L,L-diaminopimelate aminotransferase",0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ADCL,4-aminobenzoate synthase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ADCPS2,Adenosylcobinamide-phosphate synthase,1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+ADCS,4-amino-4-deoxychorismate synthase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ADD,Adenine deaminase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ADK1,Adenylate kinase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ADMDC,Adenosylmethionine decarboxylase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ADNCYC,Adenylate cyclase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ADNUC,Adenosine hydrolase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ADOCBIAH,MNXR85327,1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+ADOCBIK,Adenosyl cobinamide kinase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ADPDS,Acetyl diaminopimelate deacetylase,0,0,0,0,0,0,1,1,0,0,1,0,0,1,0,0,0,0,1
+ADPGLC,ADPglucose diphosphatase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ADPRDP,ADPribose diphosphatase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ADPT,Adenine phosphoribosyltransferase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ADPTA,Acetyldiaminopimelate transaminase,0,0,0,0,0,0,1,1,0,0,1,0,0,1,0,0,0,0,1
+ADSL1r,Adenylsuccinate lyase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ADSL2r,Adenylosuccinate lyase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ADSS,Adenylosuccinate synthase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ADtr,"Acetamide transport, extracellular",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+AEPPYRTA,2 aminoethylphosphonate pyruvate transaminase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+AEPabcpp,AEP transport via ABC system periplasm,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+AEPtex,AEP transport via diffusion extracellular to periplasm,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+AGDC,N-acetylglucosamine-6-phosphate deacetylase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+AGM3PA,N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tripeptide amidase,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AGM3PApp,N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tripeptide amidase (periplasm),1,0,0,0,0,0,1,1,1,1,1,1,1,1,1,0,0,0,1
+AGM3PH,"N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tripeptide beta -1,4-N-acetylglucosaminidase",1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,1,0,1
+AGM3Pt2pp,GlcNAc-anhMurNAc tripeptide transport in via proton symport (periplasm),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AGM4PA,N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tetrapeptide amidase,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+AGM4PApp,N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tetrapeptide amidase (periplasm),1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+AGM4PCP,"N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tetrapeptide L,D-carboxypeptidase",1,0,0,1,1,0,1,1,0,1,1,1,1,1,0,0,1,0,1
+AGM4PH,"N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tetrapeptide beta -1,4-N-acetylglucosaminidase",1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+AGM4Pt2pp,GlcNAc-anhMurNAc tetrapeptide transport in via proton symport (periplasm),1,1,1,1,1,0,1,1,0,1,1,1,1,1,0,1,1,1,1
+AGMH,"N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl beta -1,4-N-acetylglucosaminidase",0,1,1,1,1,0,0,0,1,0,0,0,0,0,1,1,0,1,0
+AGMT,Agmatinase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+AGMt2pp,GlcNAc-anhMurNAc transport in via proton symport (periplasm),0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,0
+AGMtex,Agmatine transport via diffusion (extracellular to periplasm),1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AGPAT120,1-tetradecanoyl-sn-glycerol 3-phosphate O-acyltransferase (n-C12:0),1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+AGPAT141,1-tetradec-7-enoyl-sn-glycerol 3-phosphate O-acyltransferase (n-C14:1),1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+AGPAT161,1-hexadec-7-enoyl-sn-glycerol 3-phosphate O-acyltransferase (n-C16:1),1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+AGPOP,"DGTP:pyruvate 2-O-phosphotransferase, cytosol",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+AGPR,N-acetyl-g-glutamyl-phosphate reductase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+AGTi,Alanine glyoxylate aminotransferase  irreversible,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+AHCYSNS,S-adenosylhomocysteine nucleosidase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+AHCi,Adenosylhomocysteinase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+AHGDx,(S)-alpha-hydroxyglutarate dehydrogenase,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1
+AHMMPS,4 amino 5 hydroxymethyl 2 methylpyrimidine synthetase,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AHMMPS_1,4 amino 5 hydroxymethyl 2 methylpyrimidine synthetase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+AHSERL,O acetylhomoserine  thiol  lyase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+AHSERL2,O acetylhomoserine  thiol  lyase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+AHSERL4,Cysteine synthase  Thiosulfate,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+AICART,Phosphoribosylaminoimidazolecarboxamide formyltransferase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+AIRC2,Phosphoribosylaminoimidazole carboxylase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+AIRC3,Phosphoribosylaminoimidazole carboxylase (mutase rxn),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+AIRCr,Phosphoribosylaminoimidazole carboxylase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+AKGDH,2-Oxogluterate dehydrogenase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+AKGDa,Oxoglutarate dehydrogenase (lipoamide),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AKGDb,Oxoglutarate dehydrogenase (dihydrolipoamide S-succinyltransferase),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ALAALAD,D-alanine-D-alanine dipeptidase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ALAALAabcpp,D-alanyl-D-alanine (DalaDala) transport via ABC system (periplasm),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ALAALAr,D-alanine-D-alanine ligase (reversible),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ALAALAtex,D-alanyl-D-alanine (DalaDala) transport via diffusion (extracellular to periplasm),1,1,1,0,1,1,0,0,0,1,0,1,1,0,0,1,1,1,1
+ALAGLNtr,Dipeptide transport via ABC system ala-gln,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ALAGLYtr,Dipeptide transport via ABC system ala-gly,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ALAHIStr,Dipeptide transport via ABC system ala-his,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ALALEUt,Dipeptide transport via ABC system ala-leu,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ALAR,Alanine racemase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ALAS,,0,1,1,1,1,1,0,1,1,1,1,0,0,1,1,1,1,1,0
+ALATA_D,D-alanine transaminase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ALATA_L,L-alanine transaminase,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,1
+ALATHRtr,Dipeptide transport via ABC system ala-thr,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ALAabc,L-alanine transport via ABC system,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ALAt2pp,L-alanine transport in via proton symport (periplasm),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ALAt4,Alanine-Sodium symporter,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ALAtex,L-alanine transport via diffusion (extracellular to periplasm),1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+ALAtpp,L-alanine export via facilited diffusion,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+ALCD19,Alcohol dehydrogenase (glycerol),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ALCD19y,Alcohol dehydrogenase  glycerol  NADP,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ALCD2ir,Alcohol dehydrogenase  reverse rxn  acetaldehyde   ethanol,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ALCD2x,Alcohol dehydrogenase (ethanol),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ALCD2y,"Alcohol dehydrogenase (ethanol, NADP)",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ALCDpp,Alcohol dehydrogenase  forward rxn  ethanol   acetaldehyde,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+ALDD2x,"Aldehyde dehydrogenase (acetaldehyde, NAD)",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ALDD31,Aminoacetaldehyde oxidation,1,0,0,0,0,0,1,0,0,1,0,1,1,0,0,0,0,0,1
+ALDD4,"Aldehyde dehydrogenase (butanal, NAD)",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ALMPC,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ALOX,Oxidative decarboxylation of acetolacate chemical,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ALPHNH,Allophanate hydrolase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ALTRH,Altronate hydrolase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+AM3PA,Anhydrous-N-Acetylmuramyl-tripeptide amidase,1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,1,0,1
+AM4PCP,"Anhydrous-N-Acetylmuramyl-tetrapeptide L,D-carboxypeptidase",1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+AMANAPEr,N-acetylmannosamine 6-phosphate epimerase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+AMANK,N-acetyl-D-mannosamine kinase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+AMANK_1,N-acetyl-D-mannosamine kinase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+AMID_1,Acetamidase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+AMMQLT8_2,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+AMMQT8_2,S-adenosylmethione:2-demethylmenaquinone methyltransferase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0
+AMPEP1,Aminopeptidase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+AMPEP10,Aminopeptidase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+AMPEP11,Aminopeptidase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+AMPEP12,Aminopeptidase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+AMPEP13,Aminopeptidase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+AMPEP14,Aminopeptidase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+AMPEP15,Aminopeptidase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+AMPEP16,Aminopeptidase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+AMPEP17,Aminopeptidase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+AMPEP18,Aminopeptidase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+AMPEP2,Aminopeptidase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+AMPEP3,Aminopeptidase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+AMPEP4,Aminopeptidase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+AMPEP5,Aminopeptidase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+AMPEP6,Aminopeptidase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+AMPEP7,Aminopeptidase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+AMPEP8,Aminopeptidase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+AMPEP9,Aminopeptidase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+AMPMS2,4-amino-2-methyl-5-phosphomethylpyrimidine synthetase,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AMPTASECG,Alanyl aminopeptidase (cys-gly),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ANHGMtex,GlcNAc-anhMurNAc transport via diffusion (extracellular to periplasm),1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1
+ANHMK,"1,6-anhydrous-N-Acetylmuramate kinase",1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1
+ANTDR,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+AOBUTDs,L-2-amino-3-oxobutanoate decarboxylation (spontaneous),0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0
+AP3S,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+APATi,Tetrahydrodipicolinate acetyltransferase,0,0,0,0,0,0,1,1,0,0,1,0,0,1,0,0,0,0,1
+APCt6,Ampicilin  transport out via proton antiport TtgABC system  periplasmexternal,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+APCtex,Ampicilin transport  extracellular,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+APDH,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+APG3PAT120,Acyl-phosphate:glycerol-3-phosphate acyltransferase (C12:0),1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+APG3PAT141,Acyl-phosphate:glycerol-3-phosphate acyltransferase (C14:1),1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+APG3PAT161,Acyl-phosphate:glycerol-3-phosphate acyltransferase (C16:1),1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+APPLDHr,Aminopropanol dehydrogenase reversible,1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+APRAUR,5-amino-6-(5-phosphoribosylamino)uracil reductase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ARAB_Lt,L arabinoase extracellular transport,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ARAI,L-arabinose isomerase,0,1,1,1,1,1,0,0,1,0,0,0,0,0,1,1,1,1,0
+ARBTpts,Arbutin transport via PEPPyr PTS,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ARBabc,L-arabinose transport via ABC system,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ARBt2r,L-arabinose transport via proton symport,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ARGAGMt7pp,Arginine/agmatine antiport (periplasm),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ARGDC,Arginine decarboxylase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ARGSL,Argininosuccinate lyase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ARGSS,Argininosuccinate synthase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ARGabc,L-arginine transport via ABC system,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ARGabcpp,L-arginine transport via ABC system (periplasm),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ARGt2r,L arganine reversible transport via proton symport,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ARGtex,L-arginine transport via diffusion (extracellular to periplasm),0,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ARNO,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+AROAT,Prephenate transaminase,1,1,1,1,1,1,1,0,1,0,0,0,0,0,1,1,1,1,1
+AROH,L-Arogenate hydro-lyase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ASAD,Aspartate-semialdehyde dehydrogenase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ASCBPL,L-ascorbate 6-phosphate lactonase,1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+ASCBpts,L-ascorbate transport via PEP:Pyr PTS,1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+ASLP,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ASNN,L-asparaginase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ASNS1,Asparagine synthase (glutamine-hydrolysing),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ASNS2,Asparagine synthetase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ASNabc,L-asparagine transport via ABC system,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ASP1DC,Aspartate 1-decarboxylase,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+ASP4DC,Aspartate 4-decarboxylase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ASPCT,Aspartate carbamoyltransferase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ASPK,Aspartate kinase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ASPO2,L-aspartate oxidase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ASPO2y,L-aspartate oxidase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ASPO5,L-aspartate oxidase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ASPR,Aspartate racemase,1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+ASPTA,Aspartate transaminase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ASPTA4,Aspartate transaminase,1,1,1,1,1,1,0,0,1,0,0,0,0,0,1,1,1,1,1
+ASPabc,L-aspartate transport via ABC system,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ASPabcpp,L-aspartate transport via ABC system (periplasm),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ASPt2r,L aspartate reversible transport via proton symport,1,1,1,1,1,1,1,0,1,1,0,1,1,0,1,1,1,1,1
+ASPtex,L-aspartate transport via diffusion (extracellular to periplasm),1,1,0,1,1,1,1,0,1,0,0,1,1,0,1,0,1,0,1
+ASPtpp,L-aspartate uptake via facillitated diffusion,0,0,1,0,0,0,0,1,0,1,1,0,0,1,0,1,0,1,0
+ATPM,R_ATPM,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ATPPRT,ATP phosphoribosyltransferase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+BALAt2r,Beta Alanine transport in via proton symport,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+BARB,MNXR70450,0,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+BDH,3-HYDROXYBUTYRATE-DEHYDROGENASE-RXN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+BETALDHx,Betaine-aldehyde dehydrogenase,0,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0,1,0,0
+BETALDHy,Betaine-aldehyde dehydrogenase,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,0,1,1
+BGLA,Beta-glucosidase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+BGLA1,6-phospho-beta-glucosidase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+BG_CELLB,Beta glucosidase  cellobiose,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+BG_MADG,Beta glucosidase  methyl alpha D glucoside,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+BG_MBDG,Beta glucosidase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+BHBtpp,Transport of (r)-3-hydroxybutanoate [extraorganism-cytosol](passive),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+BNOCA,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+BPNT,"3',5'-bisphosphate nucleotidase",1,1,0,1,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0
+BPNT_1,"3',5'-bisphosphate nucleotidase",0,0,1,0,1,1,1,1,0,0,1,1,1,1,0,1,1,1,1
+BSCT,Benzoylsuccinyl-CoA thiolase,0,1,1,1,0,1,0,0,1,0,0,0,0,0,1,1,0,1,0
+BTCOARx,Butyryl-coA reductase (NADH),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+BTNTe,Release of biotin across the basolatral membrane,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+BTNt,Biotin ABC transporter,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+BTNt2i,Biotin uptake,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+BTS,Butanol synthase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+BTS_nadph,Butanol synthase (NADPH),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+BUP2,Beta-ureidopropionase (D-3-amino-isobutanoate forming),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+BUPN,Beta-ureidopropionase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+BUTCT,Acetyl-CoA:butyrate-CoA transferase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+BUTCT2,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+BUTKr,Butyrate kinase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+BZt,Benzoate transport (diffusion),0,1,1,1,0,1,0,0,1,0,0,0,0,0,1,1,0,1,0
+C4HP,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+CA2abc,Calcium transport via ABC system,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+CAT,Catalase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+CAt6,CAt6,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+CBPAH,N-carbamoylputrescine amidohydrolase,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+CBPS,Carbamoyl-phosphate synthase (glutamine-hydrolysing),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+CD2t4pp,Cadmium (Cd+2) transport out via proton antiport (periplasm),1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+CD2tpp,Cadmium (+2) transport in via permease (no H+),1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+CD6P,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+CDAPPA120,CDP-Diacylglycerol pyrophostatase (n-C12:0),0,1,1,1,1,1,0,1,1,0,1,0,0,1,1,1,1,1,0
+CDAPPA140,CDP-Diacylglycerol pyrophostatase (n-C14:0),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+CDAPPA160,CDP-Diacylglycerol pyrophostatase (n-C16:0),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+CDAPPA180,CDP-Diacylglycerol pyrophostatase (n-C18:0),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+CDAPPA181,CDP-Diacylglycerol pyrophostatase (n-C18:1),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+CDDTPP,DTTP cytidine 5'-phosphotransferase,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+CDGUNPD,"3,5-cyclic-nucleotide phosphodiesterase",1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+CDPMEK,4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+CELBpts,Cellobiose transport via PEPPyr PTS,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+CELBt2,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+CELLBpts_2,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+CELLS,Cellulose synthase  UDP forming,1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+CELLex,Cellulose export system,1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+CGLYabcpp,L-Cysteinylglycine (Cys-Gly) transport via ABC system (periplasm),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+CGLYtex,L-Cysteinylglycine transport via diffusion (extracellular to periplasm),0,0,0,0,0,1,1,0,1,0,0,0,0,0,1,0,0,0,1
+CHLabc,Choline transport via ABC system,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+CHLabcpp,Choline transport via ABC system (periplasm),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+CHLt3pp,Choline transport via proton antiport (periplasm),0,0,0,0,0,0,1,1,0,0,1,0,0,1,0,0,0,0,1
+CHLtex,Choline transport via diffusion (extracellular to periplasm),1,1,1,1,1,1,0,0,1,1,0,1,1,0,1,1,1,1,0
+CHOLD,Choline dehydrogenase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+CHOLD2,Choline dehydrogenase  FAD dependent,1,1,1,0,1,0,0,0,1,1,0,1,1,0,1,1,1,1,0
+CHOLD3,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+CHOLSH,CHOLINE-SULFATASE-RXN,1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+CHOLSabc_1,Choline sulfate transport in via ABC system,1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+CHORM,Chorismate mutase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+CHORS,Chorismate synthase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+CHORt2,Chorismate transport inout via proton symport,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+CHRPL,Chorismate pyruvate lyase,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CLt3_2pp,Chloride transport out via proton antiport (2:1) (periplasm),1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,1,0,1
+CLtex,Chloride (Cl-1) transport via diffusion (extracellular to periplasm),1,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,1,0,0
+CLtipp,Chloride ion transport in via diffusion (periplasm),0,0,0,0,0,0,0,1,0,1,1,0,0,1,0,0,1,0,1
+CMCBTFL,CMCBTFL,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+CMCBTFU,CMCBTFU,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+CMCMSAD,4 carboxy 2 hydroxymuconate 6 semialdehyde dehydrogenase,1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+CMHMI,5 carboxymethyl 2 hydroxymuconate delta isomerase,1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+CMt2ex,Chloramphenicol extrusion,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CMt2ppi,Chloramphenicol transport via diffusion  periplasm to cytosol,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CMtex,Chloramphenicol transport via diffusion (extracellular to periplasm),1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CMtpp,Chloramphenicol transport via TolC system,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CO2FO,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+CO2t,CO2 transporter via diffusion,0,0,0,0,0,1,1,1,1,0,1,1,1,1,1,0,1,0,0
+CO2tex,CO2 transport via diffusion (extracellular to periplasm),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+CO2tpp,CO2 transporter via diffusion (periplasm),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+COAt,COAt,1,1,1,1,1,1,0,1,1,1,1,0,0,1,1,1,0,1,0
+COBALT2tex,Cobalt (Co+2) transport via diffusion (extracellular to periplasm),0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+COBALT2tpp,Cobalt transport in via permease (no H+),1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+COBALTt4pp,Cobalt transport out via proton antiporter (periplasm),1,1,1,0,0,0,1,1,0,1,1,1,1,1,0,1,0,1,1
+COBALTt5,Cobalt (Co+2) transport via diffusion (extracellular to cytoplasm),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+COabc,Cobalt transport via ABC system,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+COt_1,Co transport via diffusion (extracellular to periplasm),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+CPPPGO,Coproporphyrinogen oxidase (O2 required),1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+CPPPGO2,Oxygen Independent coproporphyrinogen-III oxidase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+CREAT,Creatinase,1,1,0,0,1,1,0,1,1,1,1,1,1,1,1,0,1,0,0
+CREATtex,Creatine transport via diffusion  extracellular to periplasm,1,1,0,0,1,1,0,1,1,1,1,1,1,1,1,0,1,0,0
+CREATtpp,Creatine transport via proton symport  reversible  periplasm,1,1,0,0,1,1,0,1,1,1,1,1,1,1,1,0,1,0,0
+CRESOLtex,Cresol transport via diffusion,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+CRNDH,Carnitine 3 dehydrogenase,1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+CRNabc,L-carnitine transport via ABC system,1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+CRNabcpp,L-carnitine transport via ABC system (periplasm),1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+CRNtex,L-carnitine transport via diffusion (extracellular to periplasm),1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+CRO4abcpp,Chromate transport via ABC system (periplasm),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+CRO4t3pp,Chromate transport out via proton antiport (cytoplasm to periplasm),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+CSND,Cytosine deaminase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+CSNt2,Cytosine transport in via proton symport,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+CT6PT,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+CU1Opp,Cuprous Oxidase (Cu+1),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+CU2tex,Copper (Cu+2) transport via diffusion (extracellular to periplasm),1,1,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,1
+CU2tpp,Copper transport in via permease (no H+),0,0,0,1,1,0,1,1,1,1,1,1,0,1,1,0,1,0,0
+CUtex,Copper (Cu+1) transport via diffusion (extracellular to periplasm),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+CYANST,Cyanide sulfurtransferase,1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+CYANt2pp,Cyanate transport via proton symport  periplasm,1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+CYANtex,Cyanide transport via diffusion (extracellular to periplasm),1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+CYO4pp,Cytochrome c reductase  pqq dependent,1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+CYSDS,Cysteine Desulfhydrase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+CYSS,Cysteine synthase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+CYSS_2,Cysteine synthase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+CYSTA,Cysteine transaminase,0,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,0
+CYSTGL,Cystathionine g lyase,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1
+CYSTL,Cystathionine b-lyase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+CYSTS,Cystathionine beta synthase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+CYSabc,L-cysteine transport via ABC system,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+CYSabc2pp,L-cysteine export via ABC system (cytoplasm to periplasm),1,1,1,1,0,0,0,0,0,1,0,1,1,0,0,1,0,1,0
+CYSabcpp,L-cysteine uptake via ABC system (periplasm),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+CYStex,L-cysteine transport via diffusion (extracellular to periplasm),0,0,0,0,1,1,1,1,1,0,1,0,0,1,1,0,1,0,1
+CYTBO3_4pp,Cytochrome oxidase bo3 (ubiquinol-8: 4 protons) (periplasm),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+CYTCAA3pp,Cytochrome c oxidase aa3  2 protons1 electron    periplasm,1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+CYTD,Cytidine deaminase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+CYTDK1,ATP:cytidine 5'-phosphotransferase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+CYTDK2,Cytidine kinase (GTP),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+CYTDt2pp,Cytidine transport in via proton symport (periplasm),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+CYTK1,Cytidylate kinase (CMP),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+CYTK2,Cytidylate kinase (dCMP),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+CYTOM,Cytosine 5 methyltransferase,0,1,1,0,1,0,0,1,0,0,1,1,1,1,0,1,0,1,1
+Clt,Major Facilitator(MFS) TCDB:2.A.1.14.6,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+Cotpp,Co transport via diffusion (periplasm to cytosol),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Cuabc,Copper transport via ABC system,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+D3AIBT,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DAAOP,D alanyl aminopeptidase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DACHpts,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DACL,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DADA,Deoxyadenosine deaminase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DADK,Deoxyadenylate kinase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DADNt2,Deoxyadenosine transport in via proton symport,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0
+DAGK120,Diacylglycerol kinase (n-C12:0),1,1,1,1,1,1,1,0,1,1,0,1,1,0,1,1,1,1,1
+DAGK140,Diacylglycerol kinase (n-C14:0),1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+DAGK141,Diacylglycerol kinase (n-C14:1),0,1,1,1,1,1,0,0,1,0,0,0,0,0,1,1,1,1,0
+DAGK160,Diacylglycerol kinase (n-C16:0),1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+DAGK161,Diacylglycerol kinase (n-C16:1),0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,1
+DAGK180,Diacylglycerol kinase (n-C18:0),1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+DAGK181,Diacylglycerol kinase (n-C18:1),1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+DALAabcpp,D-alanine transport via ABC peptide transporter,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+DALAt2pp,D-alanine transport in via proton symport (periplasm),0,0,0,1,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+DALAtex,D-Alanine transport via diffusion (extracellular to periplasm),1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,1,1,1,0
+DAPDA,"N-acetyl-L,L-diaminopimelate deacetylase",0,0,0,1,1,0,0,1,0,0,1,0,0,1,0,0,0,0,0
+DAPDC,Diaminopimelate decarboxylase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DAPE,Diaminopimelate epimerase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DAPabcpp,M-diaminopimelic acid ABC transport (periplasm),1,1,1,1,1,1,0,0,1,1,0,1,1,0,1,1,1,1,0
+DASYN120,CDP-diacylglycerol synthetase (n-C12:0),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DASYN140,CDP-diacylglycerol synthetase (n-C14:0),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DASYN160,CDP-diacylglycerol synthetase (n-C16:0),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DASYN161,CDP-diacylglycerol synthetase (n-C16:1),1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+DASYN180,CDP-diacylglycerol synthetase (n-C18:0),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DASYN181,CDP-diacylglycerol synthetase (n-C18:1),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DATCY,DATP:cytidine 5'-phosphotransferase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DATUP,DATP:uridine 5'-phosphotransferase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DB4PS,"3,4-Dihydroxy-2-butanone-4-phosphate synthase",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DC6PH,Diacetylchitobiose-6-phosphate hydrolase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DCMPDA,DCMP deaminase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DCPDPS,DCPDPS,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+DCTCP,DCTP:cytidine 5'-phosphotransferase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DCTPD,DCTP deaminase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DCTPD2_1,DCTP deaminase,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0
+DCTUP,DCTP:uridine 5'-phosphotransferase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DCYTD,Deoxycytidine deaminase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DCYTt2,Deoxycytidine transport in via proton symport,1,1,0,0,0,1,0,0,1,1,0,1,1,0,1,1,1,0,0
+DDCAt2pp,Dodecanoate transport via proton symport,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DDGLCNt2r,"2-dehydro-3-deoxy-D-gluconate transport via proton symport, reversible",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DDGLK,2-dehydro-3-deoxygluconokinase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DDPA,3-deoxy-D-arabino-heptulosonate 7-phosphate synthetase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DGAK,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DGK1,Deoxyguanylate kinase (dGMP:ATP),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DGNSK,Deoxyguanosine kinase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DGTCY,DGTP:cytidine 5'-phosphotransferase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DGTUP,DGTP:uridine 5'-phosphotransferase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DGUNC,Diguanylate cyclase,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DH23t,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DHAD2,"Dihydroxy-acid dehydratase (2,3-dihydroxy-3-methylpentanoate)",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DHAK,Dihydroxyacetone kinase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DHAt,Dihydroxyacetone transport via facilitated diffusion,1,0,0,0,0,0,1,1,1,0,1,0,0,1,1,0,0,0,0
+DHBD,"2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DHDPRx_r,Dihydrodipicolinate reductase (NADH) reversible,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DHDPRy,Dihydrodipicolinate reductase (NADPH),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DHDPS,Dihydrodipicolinate synthase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DHEDAA,"2,4-dihydroxyhept-2-ene-1,7-dioic acid aldolase",1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+DHFR,Dihydrofolate reductase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DHFS,Dihydrofolate synthase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DHNAOT,"1,4-dihydroxy-2-naphthoate octaprenyltransferase",0,0,0,0,0,0,1,1,0,0,1,0,0,1,0,0,0,0,0
+DHNAOT4,"1,4-dihydroxy-2-naphthoate octaprenyltransferase",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DHNAOT_1,1 4 dihydroxy 2 naphthoate octaprenyltransferase,0,1,1,1,1,1,0,0,1,1,0,1,1,0,1,1,1,1,0
+DHNCOAS,"1,4-dihydroxy-2-napthoyl-CoA synthase",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+DHNCOAT,"1,4-dihydroxy-2-napthoyl-CoA thioesterase",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+DHNPA2r,Dihydroneopterin aldolase reversible,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DHORD2,Dihydoorotic acid dehydrogenase (quinone8),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DHORTS,Dihydroorotase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DHPD,Dihydropyrimidinase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DHPDO,3 4 dihydroxyphenylacetate 2 3 dioxygenase,1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+DHPM2,Dihydropyrimidinase (dihydrothymine),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DHPPDA2,Diaminohydroxyphosphoribosylaminopryrimidine deaminase (25drapp),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DHPS2,Dihydropteroate synthase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DHPTDCs,"4,5-dihydroxy-2,3-pentanedione cyclization (spontaneous)",0,0,1,1,1,0,1,0,0,1,0,0,0,0,0,0,0,1,0
+DHPTDCs2,"4,5-dihydroxy-2,3-pentanedione cyclization (spontaneous)",0,1,0,0,0,1,0,1,1,0,1,1,1,1,1,1,0,0,1
+DHPt,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+DHQS,3-dehydroquinate synthase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DHQTi,"3-dehydroquinate dehydratase, irreversible",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DIACTt,Diacetyl diffusion,0,0,1,0,1,0,1,0,1,0,0,0,0,0,1,0,1,1,1
+DIPEPabc1,Dipeptide transport via ABC system  ala asp,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DIPEPabc10,Dipeptide transport via ABC system  gly glu,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DIPEPabc12,Dipeptide transport via ABC system  met ala,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DIPEPabc13,Dipeptide transport via ABC system  gly asp,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DIPEPabc14,Dipeptide transport via ABC system  gly pro L,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DIPEPabc15,Dipeptide transport via ABC system  cgly,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DIPEPabc3,Dipeptide transport via ABC system  ala glu,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DIPEPabc8,Dipeptide transport via ABC system  gly asn,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DLMETR,Methionine racemase,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+DMATT,Dimethylallyltranstransferase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DMBI,MNXR18583,0,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+DMGDH2,Dimethylglycine dehydrogenase,1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+DMPPS,1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate reductase (dmpp),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DMPPS_syn,1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate reductase (dmpp),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DMSOR1pp,Dimethyl sulfoxide reductase (Menaquinol 8) (periplasm),1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DMSOR2pp,Dimethyl sulfoxide reductase (Demethylmenaquinol 8) (periplasm),1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DMSOtex,Dimethyl sulfoxide transport via diffusion (extracellular to periplasm),1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DMStex,Dimethyl sulfide transport via diffusion (extracellular to periplasm),1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DNMPPA,Dihydroneopterin monophosphate dephosphorylase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DNTPPA,Dihydroneopterin triphosphate pyrophosphatase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DOP1,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DOP2,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DPCOAK,Dephospho-CoA kinase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DPR,2-dehydropantoate 2-reductase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DRBK,Deoxyribokinase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DRIBt2,Deoxyribose transport in via proton symporter,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DRIBtex_1,5-Deoxy-D-ribose transport by diffusion,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DRPA,Deoxyribose-phosphate aldolase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DRU1Ptex,S-methyl-5-thio-D-ribose 1-phosphate transport via diffusion,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DTMPK,DTMP kinase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DTTGY,DTTP:cytidine 5'-phosphotransferase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DTTUP,DTTP:uridine 5'-phosphotransferase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DURAD,Dihydrouracil dehydrogenase (NADP),0,0,0,0,0,0,1,1,1,1,1,0,0,1,1,0,1,0,1
+DURAD2,Dihydrothymin dehydrogenase (NADP),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DURADx,Dihydrouracil dehydrogenase (NAD),1,1,1,1,1,1,0,0,1,0,0,1,1,0,1,1,1,1,0
+DURIPP,Deoxyuridine phosphorylase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DUTCP,DUTP:cytidine 5'-phosphotransferase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DUTPDP,DUTP diphosphatase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DUTUP,DUTP:uridine 5'-phosphotransferase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DXPRIi,1-deoxy-D-xylulose reductoisomerase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DXPS,1-deoxy-D-xylulose 5-phosphate synthase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+DXYLUDtex,1-deoxy-d-xyluose transport,1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+DXYLUDtpp,1-deoxy-d-xyluose transport,1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+ECOAH9ir,2 Methylprop 2 enoyl CoA  2 Methylbut 2 enoyl CoA,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+EDA,2-dehydro-3-deoxy-phosphogluconate aldolase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+EDD,6-phosphogluconate dehydratase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ENO,Enolase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ETHAAL,Ethanolamine ammonia-lyase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ETHAt,Ethanolamine transport via diffusion  extracellular,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ETHAt6,Ethanolamine transport inout via proton symport,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+ETOHtrpp,Ethanol reversible transport via diffusion (periplasm),0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+EX_Ncbmpts_e,R_EX_Ncbmpts_e,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+F1PP,D-fructose 1-phosphate phosphatase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+F6PA,Fructose 6-phosphate aldolase,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1
+F6PP,D-fructose 6-phosphate phosphatase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+FA80ACPHi,Fatty-acyl-ACP hydrolase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+FACOAE140,Fatty-acid-CoA thioesterase (tetradecanoate),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+FACOAE141,Fatty-acid-CoA thioesterase (tetradecenoate),1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+FACOAE160,Fatty-acid-CoA thioesterase (hexadecanoate),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+FACOAE161,Fatty-acid-CoA thioesterase (hexadecenoate),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+FACOAE181,Fatty-acid-CoA thioesterase (octadecenoate),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+FACOAL140,Fatty acid  CoA ligase  tetradecanoate,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+FACOAL141t2pp,Fatty-acid-CoA ligase (tetradecenoate transport via vectoral Co-A coupling),1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+FACOAL160,Fatty acid  CoA ligase  hexadecanoate,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+FACOAL161,Fatty acid  CoA ligase  hexadecenoate,1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+FACOAL161t2pp,Fatty-acid-CoA ligase (hexadecenoate transport via vectoral Co-A coupling),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+FACOAL181,Fatty acid  CoA ligase  octadecenoate,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+FADMQOR,Menaquinone:FAD oxidoreductase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+FADt,"FAD transporter, periplasm",0,0,0,1,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+FADtex,"FAD transport, outer membrane",0,0,0,1,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+FAO2,Fatty acid oxidation (n-C16:0),1,0,0,0,0,1,1,1,0,1,1,1,1,1,0,0,0,0,1
+FAS181,Fatty acid synthase  n C181,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+FBA,Fructose-bisphosphate aldolase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+FBA2,D Fructose 1 phosphate D glyceraldehyde 3 phosphate lyase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+FBA3,"Sedoheptulose 1,7-bisphosphate D-glyceraldehyde-3-phosphate-lyase",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+FBP,Fructose-bisphosphatase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+FCLPA,L-fuculose 1-phosphate aldolase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+FCLT,Ferrochelatase,0,0,1,0,1,1,1,0,1,1,0,1,1,0,1,1,1,1,1
+FCLT_2,Heme B synthesis reaction,1,1,0,1,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0
+FCOAH2,Formyl coa hydrolase,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+FDH,Formate dehydrogenase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+FDH6r,FORMATE-DEHYDROGENASE-NADP+-RXN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+FDMO2,FMNH2-dependent monooxygenase (methanesulfonate),1,1,1,1,1,1,0,1,1,0,1,1,1,1,1,1,1,1,0
+FDMOtau,FMNH2 dependent monooxygenase,1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+FE2abc,Iron (II) transport via ABC system,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+FE2t,Iron  II  transport,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+FE2t4pp,Iron(II) transport out via antiport (periplasm),1,0,1,0,0,0,1,1,0,1,1,1,1,1,0,1,0,1,1
+FE2tex,Iron (II) transport via diffusion (extracellular to periplasm),0,0,0,0,1,0,1,0,0,0,0,1,1,0,0,1,1,0,0
+FE2tpp,Iron (+2) transport in via permease (no H+),1,0,1,0,0,0,0,1,0,1,1,0,0,1,0,0,0,1,1
+FE3PYOVD2tonex,Ferrypioverdine  Pputida specific  Ton dependent transport,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+FE3PYOVDDR2,Ferrypyoverdine  dissociation reduction  Pputida specific,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+FE3PYOVDL2,Ferripyoverdine complex formation  P putida KT2440 specific,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+FE3abc,Iron (III) transport via ABC system,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+FEDCabc,Iron  III  dicitrate transport via ABC system,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+FFSD1r,Beta-fructofuranosidase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+FFSD_2,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+FGFT_1,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+FMNAT,FMN adenylyltransferase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+FMNRx,FMN reductase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+FMNRx2,FMN reductase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+FNOR,Ferredoxin---NADP+ reductase,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+FNRR3,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+FOLR2,Folate reductase,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FORGLUt,Transport of N-Formimidoyl-L-Glutamate,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+FORt,Formate transport via diffusion,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+FRTT,Farnesyltranstransferase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+FRUK,Fructose-1-phosphate kinase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+FRUpts,D-fructose transport via PEP:Pyr PTS,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+FRUpts2,Fructose transport via PEP:Pyr PTS (f6p generating),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+FTCD,Formimidoyltransferase cyclodeaminase reversible,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+FTHFCL,5 formethyltetrahydrofolate cyclo ligase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+FTHFLi,Formate-tetrahydrofolate ligase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+FUCpts,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+FUM,Fumarase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+FUMt2r,Fumarate reversible transport via symport,1,1,1,1,1,1,1,0,1,1,0,1,1,0,1,1,1,1,1
+G1PACT,Glucosamine-1-phosphate N-acetyltransferase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+G1PP,Glucose-1-phosphatase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+G1SAT,Glutamate-1-semialdehyde aminotransferase,1,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1
+G3PAT161,Glycerol-3-phosphate acyltransferase (C16:1),1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+G3PEabcpp,Sn-glycerol-3-phosphoethanolamine transport via ABC system (periplasm),0,1,0,1,1,1,0,0,1,0,0,0,0,0,1,0,1,0,0
+G3PEtex,Glycero-3-phosphoethanolamine transport via diffusion (extracellular to periplasm),0,1,0,1,1,1,0,0,1,0,0,0,0,0,1,0,1,0,0
+G3PGabcpp,Sn-glycerol-3-phosphoglycerol transport via ABC system (periplasm),0,1,1,1,1,1,0,0,1,0,0,0,0,0,1,1,1,1,0
+G3PGtex,Glycerophoglycerol transport via diffusion (extracellular to periplasm),0,1,1,1,1,1,0,0,1,0,0,0,0,0,1,1,1,1,0
+G3PT,Glycerol-3-phosphatase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+G5SADs,L-glutamate 5-semialdehyde dehydratase (spontaneous),0,1,0,0,0,1,0,1,1,1,1,1,1,1,1,0,1,0,0
+G6PBDH,Beta-D-Glucose-6-phosphate NADP+ 1-oxoreductase,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+G6PDA,Glucosamine-6-phosphate deaminase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+G6PDH2r,Glucose 6-phosphate dehydrogenase,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+G6PP,Glucose-6-phosphate phosphatase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GAL6PI,Galactose-6-phosphate isomerase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GALCTD,Galactarate dehydratase,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GALCT_D_Et,D-Galactarate transport (transport mechanism unknown - evidence from biolog data),1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GALM2,Aldose 1-epimerase (galactose),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GALMAN4,Hydrolysis of galactomannan,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GALMAN4abc,Galactomannan transport via ABC system,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GALMAN6,Hydrolysis of galactomannan,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GALMAN6abc,Galactomannan transport via ABC system,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GALT,Galactose 1 phosphate uridylyltransferase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GALTpts,Galactitol transport via PEP:Pyr PTS,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GALUi,UTP-glucose-1-phosphate uridylyltransferase (irreversible),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GALt2_3,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GAMpts,D-glucosamine transport via PEP:Pyr PTS,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GAPD,Glyceraldehyde-3-phosphate dehydrogenase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GAPDi_nadp,Glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GARFT,Phosphoribosylglycinamide formyltransferase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GART,GAR transformylase-T,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GBDM,Glycine betaine demethylase,1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+GCALDD,Glycolaldehyde dehydrogenase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GCCL,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GCCa,Glycine-cleavage complex,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GCCb,Glycine cleavage complex,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GCCc,Glycine-cleavage complex,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GCOADH,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GCVHADPr,GcvH-L complex ADP ribosylation,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GCVHRADPr,GcvH-L complex reverse ADP ribosylation,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GD3P2,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GDOCBIK,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GDPDPK,GDP diphosphokinase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GDPDPKE,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GDPMNH,GDP-mannose mannosyl hydrolase,0,1,1,1,1,1,0,0,1,1,0,0,0,0,1,1,1,1,0
+GDPMNP,GDP-mannose phyrophosphatase,1,0,0,0,0,0,1,1,0,0,1,1,1,1,0,0,0,0,1
+GDTPR,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GF6PTA,Glutamine-fructose-6-phosphate transaminase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GGGABADr,Gamma-glutamyl-gamma aminobutyric acid dehydrogenase,1,1,1,1,1,1,0,0,0,0,0,1,1,0,0,1,1,1,0
+GGGABADxr,Gamma glutamyl gamma aminobutyric acid dehydrogenase,0,0,0,0,0,0,1,1,1,1,1,0,0,1,1,0,0,0,1
+GGGABAH,Gamma-glutamyl-gamma-aminobutyric acid hydrolase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GGPTRCO,Gamma glutamyl putrescine oxidase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GGPTRCS,Gamma glutamyl putrescine synthase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GGTT,Geranylgeranyltranstransferase,1,1,1,1,1,1,0,0,1,0,0,1,1,0,1,1,1,1,0
+GHMT2r,"Glycine hydroxymethyltransferase, reversible",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GK1,Guanylate kinase (GMP:ATP),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GLBRAN2,"1,4-alpha-glucan branching enzyme (glycogen -> bglycogen)",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GLCADpts,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GLCAt2,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GLCMAN4,Hydrolysis of glucomannan,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GLCMAN4abc,Glucomannan transport via ABC system,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GLCMAN6,Hydrolysis of glucomannan,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GLCMAN6abc,Glucomannan transport via ABC system,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GLCNt2r,"D-gluconate transport via proton symport, reversible",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GLCRAL,5-dehydro-4-deoxyglucarate aldolase,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GLCRD,Glucarate dehydratase,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GLCRt2r,"D-glucarate transport via proton symport, reversible",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GLCabc,D-glucose transport via ABC system,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GLCpts,D-glucose transport via PEP:Pyr PTS,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GLDBRAN2,Glycogen debranching enzyme (bglycogen -> glycogen),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GLGC,Glucose-1-phosphate adenylyltransferase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GLNS,Glutamine synthetase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GLNabc,L-glutamine transport via ABC system,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GLNabcpp,L-glutamine transport via ABC system (periplasm),1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+GLNtex,L-glutamine transport via diffusion (extracellular to periplasm),1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+GLTPD,Galactitol-1-phosphate dehydrogenase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GLUABUTt7,4-aminobutyrate/glutamate antiport,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GLUDxi,Glutamate dehydrogenase  NAD,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GLUKA_1,Glucokinase/hexokinase (glc-A),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GLUN,Glutaminase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GLUPRT,Glutamine phosphoribosyldiphosphate amidotransferase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GLUR,Glutamate racemase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GLUSx,Glutamate synthase  NADH2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GLUSy,Glutamate synthase (NADPH),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GLUTRR,Glutamyl-tRNA reductase,1,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1
+GLUTRS_3,Glutamyl-tRNA synthetase,1,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1
+GLUabc,L-glutamate transport via ABC system,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GLUabcpp,L-glutamate transport via ABC system (periplasm),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GLUt2r,L glutamate transport via proton symport  reversible,1,1,1,1,1,1,1,0,1,1,0,1,1,0,1,1,1,1,1
+GLUt4,Na+/glutamate symport,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GLUtex,L-glutamate transport via diffusion (extracellular to periplasm),0,0,0,0,0,1,1,0,1,0,0,0,0,0,1,0,0,0,1
+GLXO1,Glyoxylate oxidase,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GLXO3r,Glyoxylate dehydrogenase,0,0,1,0,0,1,0,1,1,0,1,0,0,1,1,0,0,1,0
+GLYALDDr,D-Glyceraldehyde dehydrogenase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GLYAT,Glycine C-acetyltransferase,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1
+GLYBACT1r,Glycine betaine CoA C acetyltransferase,1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+GLYBCOAT,Glycine betaine CoA thioesterase,1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+GLYBabc,Glycine betaine transport via ABC system,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GLYBabcpp,Glycine betaine transport via ABC system (periplasm),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GLYBtex,Glycine betaine transport via diffusion (extracellular to periplasm),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GLYCDx,Glycerol dehydrogenase,0,1,1,1,1,0,0,0,0,1,0,1,1,0,0,1,0,1,0
+GLYCK,Glycerate kinase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GLYCK2,Glycerate kinase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GLYCTO1,Glycolate oxidase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GLYCTO3,Glycolate oxidase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GLYCYSAP,Gly-Cys aminopeptidase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GLYCYSabc,Gly-Cys ABC transporters,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GLYGLNtr,Dipeptide transport via ABC system gly-gln,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GLYGLYGLNtr,Tripeptide transport,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GLYLEUAP,Gly-Leu aminopeptidase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GLYLEUtr,Gly-Leu ABC transporters,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GLYMETtr,Dipeptide transport via ABC system gly-met,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GLYPHEAP,Gly-Phe aminopeptidase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GLYPHEtr,Gly-Phe ABC transporters,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GLYTYRAP,Gly-Try aminopeptidase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GLYTYRabc,Gly-Try ABC transporters,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GLYabc,Glycine transport via ABC system,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GLYabcpp,Glycine transport via ABC system,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GLYtex,Glycine transport via diffusion (extracellular to periplasm),1,1,0,1,0,0,1,0,0,1,0,1,1,0,0,1,0,0,1
+GLYtpp,Glycine transport via facillitated diffusion,0,0,1,0,1,1,0,1,1,0,1,0,0,1,1,0,1,1,0
+GMPS,GMP synthase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GMPS2,GMP synthase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GND,Phosphogluconate dehydrogenase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GNK,Gluconokinase,0,1,1,0,1,1,1,0,1,0,0,1,1,0,1,1,0,1,1
+GNK_1,Gluconokinase,1,0,0,1,0,0,0,1,0,1,1,0,0,1,0,0,1,0,0
+GNNUC,Ribosylpyrimidine nucleosidase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GPDDA1_1,Glycerophosphodiester phosphodiesterase (Glycerophosphocholine),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GPDDA2,Glycerophosphodiester phosphodiesterase (Glycerophosphoethanolamine),1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1
+GPDDA2_1,Glycerophosphodiester phosphodiesterase (Glycerophosphoethanolamine),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GPDDA3_1,Glycerophosphodiester phosphodiesterase (Glycerophosphoserine),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GPDDA4,Glycerophosphodiester phosphodiesterase (Glycerophosphoglycerol),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GPDDA4_1,Glycerophosphodiester phosphodiesterase (Glycerophosphoglycerol),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GRTT,Geranyltranstransferase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GTHOr,Glutathione oxidoreductase,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0
+GTHRDH_syn,Glutathione hydralase (periplasmic),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GTHRDHpp,Glutathione hydralase (periplasmic),1,1,1,1,1,0,0,1,0,1,1,1,1,1,0,1,1,1,0
+GTHRDabc2pp,Glutathione export via ABC system (cytoplasm to periplasm),1,1,1,1,0,0,1,0,1,1,0,1,1,0,1,1,0,1,0
+GTHRDabcpp,Reduced glutathione via ABC system (periplasm),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+GTHRDt2_1,Glutathione transport,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GTHRDtex,Glutathione transport via diffusion (extracellular to periplasm),0,0,0,0,1,1,0,1,0,0,1,0,0,1,0,0,1,0,1
+GTPCI,GTP cyclohydrolase I,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GTPCII2,GTP cyclohydrolase II (25drapp),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GUACYC,Guanylate cyclase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GUAD,Guanine deaminase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GUAPRT,Guanine phosphoribosyltransferase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GUAt,Guanine transport,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GUAt2pp,Guanine transport in via proton symport (periplasm),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GUAtex,Guanine transport via diffusion (extracellular to periplasm),1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,1
+GUAtpp,Guanine transport via diffusion (periplasm),0,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,0,1,0
+GalMr_2,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+GluForTx,Formimidoyltransferase cyclodeaminase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Growth,Biomass reaction,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+H2ASE_syn,Bidirectional [NiFe] Hydrogenase,1,0,1,0,1,0,1,1,1,0,1,0,0,1,1,0,1,1,1
+H2CD,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+H2CPD,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+H2CT,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+H2Ot,H2O transport via diffusion,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+H2Otex,H2O transport via diffusion (extracellular to periplasm),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+H2Otpp,H2O transport via diffusion (periplasm),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+H2SO,Hydrogen sulfide oxidation,1,1,1,1,1,1,1,1,0,1,1,1,1,1,0,1,1,1,1
+H2St1,H2s transport (diffusion),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+H2td,Hydrogen transport,0,1,0,0,0,1,0,0,0,1,0,1,1,0,0,1,0,0,0
+H2tex,Hydrogen transport via diffusion (extracellular to periplasm),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+H2tpp,Hydrogen transport diffusion (periplasm),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HACD1i,3-hydroxyacyl-CoA dehydrogenase (acetoacetyl-CoA),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HACD9,3 hydroxyacyl CoA dehydrogenase  2 Methylacetoacetyl CoA,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HACPS,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HAMR,Hydroxylamine reductase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HAMt,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HBCH,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HBCHLR,(3R)-3-Hydroxybutanoyl-CoA hydro-lyase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HBCO_nadp,3-Hydroxybutanoyl-CoA:NADP+ oxidoreductase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HBRCH,R hydroxy acyl CoA thioesterase  C40,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HBZOPT,Hydroxybenzoate octaprenyltransferase,1,0,0,1,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+HCITI,,1,1,1,1,1,1,0,0,1,0,0,0,0,0,1,1,1,1,0
+HCO3E,HCO3 equilibration reaction,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HCYSMT,Homocysteine S-methyltransferase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HCYSS2,,1,0,0,0,0,0,0,1,0,0,1,1,1,1,0,0,0,0,0
+HDCAt2pp,Hexadecanoate transport via proton symport,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HETZK,Hydroxyethylthiazole kinase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HEX1,Hexokinase (D-glucose:ATP),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HEX4,Hexokinase (D-mannose:ATP),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HEX7,Hexokinase (D-fructose:ATP),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HEXTT,Trans-hexaprenyltranstransferase,1,1,1,1,1,1,0,0,1,0,0,1,1,0,1,1,1,1,0
+HHDDI,"2-hydroxyhepta-2,4-diene-1,7-dioate isomerase",1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+HICITD,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HISTDa,Histidinol dehydrogenase step (Histidinal forming),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HISTDb,Histidinol dehydrogenase (histidine forming),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HISTP,Histidinol-phosphatase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HISabc,L-histidine transport via ABC system,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HISabcpp,L-histidine transport via ABC system (periplasm),1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+HIStex,L-histidine transport via diffusion (extracellular to periplasm),1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+HMBS,Hydroxymethylbilane synthase,0,1,0,0,0,1,1,1,1,1,1,0,0,1,1,0,1,0,1
+HMBS_1,Hydroxymethylbilane synthase,1,0,1,1,1,0,0,0,0,0,0,1,1,0,0,1,0,1,0
+HMGCOAS,Hydroxymethylglutaryl CoA synthase,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HMGL,Hydroxymethylglutaryl-CoA lyase,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HMPK1,Hydroxymethylpyrimidine kinase (ATP),1,1,1,1,0,1,0,0,1,1,0,1,1,0,1,1,1,1,0
+HMPK1_1,Hydroxymethylpyrimidine kinase (ATP),0,1,0,0,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0
+HMPK2,Hydroxymethylpyrimidine kinase (CTP),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+HMPK3,Hydroxymethylpyrimidine kinase (UTP),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HMPK4,Hydroxymethylpyrimidine kinase (GTP),0,0,0,0,0,1,0,1,0,0,1,0,0,1,0,0,0,0,0
+HMR_3951,HMR 3951,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HMR_6515,3-Mercaptopyruvate:Cyanide Sulfurtransferase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HMR_9638,HMR 9638,0,0,0,0,0,0,0,1,0,1,1,0,0,1,0,1,0,0,1
+HPH4CL,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HPPK2,6-hydroxymethyl-dihydropterin pyrophosphokinase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HQNt6,Hydroquinone transport inout via proton symport,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HSDxi,Homoserine dehydrogenase  NADH   irreversible,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HSDy,Homoserine dehydrogenase (NADPH),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HSERTA,Homoserine O trans acetylase,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HSK,Homoserine kinase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HSST,Homoserine O-succinyltransferase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HSTPT,Histidinol-phosphate transaminase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HXAND,Hypoxanthine dehydrogenase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HXANt2pp,Hypoxanthine transport in via proton symport (periplasm),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HXPRT,Hypoxanthine phosphoribosyltransferase (Hypoxanthine),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HYPOE,Hypothetical enyme,0,1,1,1,0,1,0,0,1,0,0,0,0,0,1,1,0,1,0
+HYXNtex,Hypoxanthine transport via diffusion (extracellular to periplasm),1,0,0,0,1,0,1,1,1,0,1,0,0,1,1,0,1,0,0
+HYXNtpp,Hypoxanthine transport (periplasm),0,1,1,1,0,1,0,0,0,1,0,1,1,0,0,1,0,1,1
+IBHH,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+IBTMr,Isobutyryl-CoA mutase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+IBTOLt,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+IBUTt,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ICAPt,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ICCT,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ICDHx,Isocitrate dehydrogenase (NAD),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ICDHyr,Isocitrate dehydrogenase (NADP),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ICHORS,Isochorismate synthase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ICHORT,Isochorismatase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ID6P,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+IG3PS,Imidazole-glycerol-3-phosphate synthase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+IGPDH,Imidazoleglycerol-phosphate dehydratase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ILEabc,L-isoleucine transport via ABC system,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ILEabcpp,L-isoleucine transport via ABC system (periplasm),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ILEt2r,L isoleucine reversible transport via proton symport,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ILEt2rpp,L-isoleucine reversible transport via proton symport (periplasm),1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+ILEt3pp,L-isoleucine transport out via proton antiport (periplasm),0,1,1,1,1,1,0,0,1,0,0,0,0,0,1,1,1,1,0
+ILEtex,L-isoleucine transport via diffusion (extracellular to periplasm),1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+IMPC,IMP cyclohydrolase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+IMPD,IMP dehydrogenase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+INDOLEt5,Indole transport out via proton antiport  cytosolexternal,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+INDOLEt6,Indole transport out via proton antiport  periplasmexternal,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+INDOLEtex,Indole transport via diffusion (extracellular to periplasm),1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+INOST_Et,Myo-Inositol transport (transport mechanism unknown - evidence from biolog data),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+INSH,Inosine hydrolase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+INSTabc,Inositol transport in via ABC transport,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+IPDDI,Isopentenyl-diphosphate D-isomerase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+IPDPS,1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate reductase (ipdp),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+IPDPS_syn,1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate reductase (ipdp),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+IPDPUDCT,,0,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1
+IPMD,3-isopropylmalate dehydrogenase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+IPPMIa,3-isopropylmalate dehydratase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+IPPMIb,2-isopropylmalate hydratase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+IPPS,2-isopropylmalate synthase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+IT6PT,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ITCY,ITP:cytidine 5'-phosphotransferase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+KARA2,Ketol-acid reductoisomerase (2-Acetolactate),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+KAS8,"B-ketoacyl synthetase (palmitate, n-C16:0)",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+KG6PDC,3-keto-L-gulonate 6-phosphate decarboxylase,1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+Kabc,Potassium ABC transporter,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Kabcpp,Potassium ABC transporter (periplasm),1,0,1,0,0,0,1,1,0,1,1,1,1,1,0,1,0,1,1
+Kt1,Potassium transport via uniport (facilitated diffusion),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Kt2r,Potassium reversible transport  via proton symport,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Ktex,Potassium transport via diffusion (extracellular to periplasm),1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,0,0,1
+L2OA,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+LALALGLUtex,L-alanyl-L-glutamate transport via diffusion (extracellular to periplasm),1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+LALALGLUtpp,L-alanyl-L-glutamate transport in via proton symport (periplasm),1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+LALGP,L-alanyl-gamma-L-glutamate peptidase,1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+LASP2OA,L-Aspartate 2-oxoglutarate aminotransferase,0,0,0,0,0,0,0,1,0,1,1,1,1,1,0,1,0,0,0
+LCADi,Lactaldehyde dehydrogenase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+LCARS,"Lacaldehyde reductase (S-propane-1,2-diol forming)",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+LCYSTabc,Cysteate transport via ABC system,1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+LDGUNPD,Linear diguanylate phosphodiesterase,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+LDH_D,D-lactate dehydrogenase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+LDH_L,L-lactate dehydrogenase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+LEUTA,Leucine transaminase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+LEUabc,L-leucine transport via ABC system,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+LEUabcpp,L-leucine transport via ABC system (periplasm),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+LEUt2r,L leucine reversible transport via proton symport,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+LEUt2rpp,L-leucine reversible transport via proton symport (periplasm),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+LEUt4rpp,L-leucine transport in via sodium symport,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+LEUtex,L-leucine transport via diffusion (extracellular to periplasm),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+LIPAMPL,Lipoyl-adenylate protein ligase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+LIPATPT_2,Lipoate-ATP adenylate transferase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+LIPOPBt,Lipoate transport via proton symport,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+LPLIPAL2A120,"Lysophospholipase L2 (2-acylglycerophosphotidate, n-C12:0)",0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0
+LPLIPAL2A141,"Lysophospholipase L2 (2-acylglycerophosphotidate, n-C14:1)",1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+LPLIPAL2A161,"Lysophospholipase L2 (2-acylglycerophosphotidate, n-C16:1)",1,0,0,0,0,0,1,0,0,1,0,1,1,0,0,0,0,0,0
+LPLIPAL2E120,"Lysophospholipase L2 (2-acylglycerophosphoethanolamine, n-C12:0)",1,0,0,0,0,0,1,0,0,1,0,1,1,0,0,0,0,0,0
+LPLIPAL2E161,"Lysophospholipase L2 (2-acylglycerophosphoethanolamine, n-C16:1)",0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,1
+LPLIPAL2G120,"Lysophospholipase L2 (2-acylglycerophosphoglycerol, n-C12:0)",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+LPLIPAL2G161,"Lysophospholipase L2 (2-acylglycerophosphoglycerol, n-C16:1)",1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+LTHRK,L threonine kinase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+LYSGLUGLYtr,Tripeptide transport,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+LYSabc,L-lysine transport via ABC system,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+L_LACD2,L-Lactate dehydrogenase (ubiquinone),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+L_LACD3,L-Lactate dehydrogenase (menaquinone),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+LacR,Lactate racemase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+M1PD,Mannitol-1-phosphate 5-dehydrogenase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+M4POt,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+MACCOAT,2-Methylacetyl-CoA thiolase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+MAL6PG,Maltose 6  phosphate glucosidase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+MALT,Alpha glucosidase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+MALTHXabc,Maltohexaose transport via ABC system,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+MALTTRabc,Maltotriose transport via ABC system,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+MALTabc,Maltose transport via ABC system,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+MALTpts,Maltose transport via PEP:Pyr PTS,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+MALTt2,Maltose transport in via proton symport,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+MALt10,Malate HNa lactate antiporter,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1
+MALt2_2pp,Malate transport via proton symport (2 H) (periplasm),0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+MALt2r,L malate reversible transport via proton symport,1,1,1,1,1,1,1,0,1,1,0,1,1,0,1,1,1,1,1
+MALt3r,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+MALtex,Malate transport via diffusion (extracellular to periplasm),0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+MAN1PT,Mannose 1 phosphate guanylyltransferase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+MAN1PT2,Mannose-1-phosphate guanylyltransferase (GDP),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+MAN6PI,Mannose-6-phosphate isomerase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+MANGLYCptspp,2-O-alpha-mannosyl-D-glycerate transport via PEP:Pyr PTS (periplasm),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+MANGLYCtex,2-O-alpha-mannosyl-D-glycerate transport via diffusion (extracellular to periplasm),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+MANPGH,2-O-alpha-mannosyl-6-phosphate-D-glycerate hydrolase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+MANpts,D-mannose transport via PEP:Pyr PTS,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+MANt2,D mannose transport in via proton symport,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+MB2CFO,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+MCPST,3-mercaptopyruvate sulfurtransferase,1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+MCTP1App,Murein crosslinking transpeptidase 1A:(A2pm->D-ala) (periplasm),1,0,0,0,0,0,1,1,1,1,1,1,1,1,1,0,0,0,1
+MCTP1Bpp,Murein crosslinking transpeptidase 1B:(A2pm->A2pm) (periplasm),1,0,0,1,0,0,1,1,1,1,1,1,1,1,1,0,0,0,1
+MCTP2App,Murein crosslinking transpeptidase 1A:(A2pm->D-ala) (periplasm),1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+MDDCP1pp,"Murein D,D-carboxypeptidase (murein5px4p) (periplasm)",1,0,0,0,0,0,1,1,1,1,1,1,1,1,1,0,0,0,1
+MDDCP2pp,"Murein D,D-carboxypeptidase (murein5px4px4p) (periplasm)",1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+MDDCP3pp,"Murein D,D-carboxypeptidase (murein5p5p) (periplasm)",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+MDDCP4pp,"Murein D,D-carboxypeptidase (murein5p4p) (periplasm)",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+MDDCP5pp,"Murein D,D-carboxypeptidase (murein5p3p) (periplasm)",1,0,0,1,0,0,1,1,1,1,1,1,1,1,1,0,0,0,1
+MDDEP1pp,"Murein D,D-endopeptidase (murein4px4p) (periplasm)",1,0,0,0,0,0,1,1,1,1,1,1,1,1,1,0,0,0,1
+MDDEP4pp,"Murein D,D-endopeptidase (murein4px4px4p) (periplasm)",1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+MDH,Malate dehydrogenase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ME1,Malic enzyme (NAD),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+MECDPDH,"2C-methyl-D-erythritol 2,4 cyclodiphosphate dehydratase",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+MECDPDH3_syn,"2C-methyl-D-erythritol 2,4 cyclodiphosphate dehydratase (FRDX)",1,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,0,0
+MECDPDH4E,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+MECDPDH_syn,"2C-methyl-D-erythritol 2,4 cyclodiphosphate dehydratase",0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+MECDPS,"2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+MEHLER,Mehler reaction,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MEPCT,2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+METAT,Methionine adenosyltransferase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+METB1,Metb1 (rev),1,1,1,1,1,0,1,0,0,1,0,0,0,0,0,0,0,1,1
+METB2,Metb1 (rev),0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,1,0,0
+METDabc,D-methionine transport via ABC system,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+METGL,Methionine g lyase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+METRR,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+METS,Methionine synthase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+METSR_R1,L methionine R oxide reductase  trdrd,1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+METSR_S1,L methionine S oxide reductase  trdrd,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+METSRabc,L methionine R oxide transport via ABC system,1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+METSabc,L methionine S oxide transport via ABC system,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+METabc,L-methionine transport via ABC system,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+METabcpp,L-methionine transport via ABC system (periplasm),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+METtex,L-methionine transport via diffusion (extracellular to periplasm),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+MGSA,Methylglyoxal synthase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+MGt5,Magnesium transport in/out via permease (no H+),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+MLDCP1Bpp,"Murein L,D-carboxypeptidase (murein4p4p) (periplasm)",1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+MLDCP2Bpp,"Murein L,D-carboxypeptidase (murein4p3p) (periplasm)",1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+MLDEP2pp,"Murein L,D-endopeptidase (murein5px3p) (periplasm)",1,0,0,1,0,0,1,1,1,1,1,1,1,1,1,0,0,0,1
+MLG,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+MLTG1,Maltodextrin glucosidase (maltotriose),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+MLTG4,Maltodextrin glucosidase (maltohexaose),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+MLTGY1pp,Murein lytic transglycosylase (murein4p4p) (periplasm),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+MLTGY2pp,Murein lytic transglycosylase (murein4p3p) (periplasm),1,0,0,1,0,0,1,1,1,1,1,1,1,1,1,0,0,0,1
+MLTGY3pp,Murein lytic transglycosylase (murein3p3p) (periplasm),1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+MLTGY4pp,Murein lytic transglycosylase (murein4px4p4p) (periplasm),1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+MLTP2,Maltodextrin phosphorylase (maltohexaose),1,1,1,1,1,1,1,1,0,1,1,1,1,1,0,1,1,1,1
+MMSAD1,Methylmalonate semialdehyde dehydrogenase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+MN6PP,Mannose 6-phosphate phosphatase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+MNLpts,Mannitol transport via PEP:Pyr PTS,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+MNabc,Manganese transport via ABC system,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+MOBDabc,Molybdate transport via ABC system,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+MOHMT,3-methyl-2-oxobutanoate hydroxymethyltransferase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+MOTH2,Maltooligosyltrehalose trehalohydrolase (maltotriosyltrehalose),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+MOTS2,Maltooligosyltrehalose synthase (maltopentaose),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+MPL,Maltose phosphorylase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+MPTG,Murein polymerizing transglycosylase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+MPTG2,Murein polymerizing transglycosylase 2 (three linked units),1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+MRF,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+MSADC,,1,1,0,0,1,1,1,1,0,1,1,1,1,1,0,0,0,0,0
+MSO3abc,Methanesulfonate transport via ABC system,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+MSULR,Metanesulfonate reductase  NADPH2,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1
+MTAN,Methylthioadenosine nucleosidase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+MTHFC,Methenyltetrahydrofolate cyclohydrolase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+MTHFD,Methylenetetrahydrofolate dehydrogenase (NADP),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+MTHFD2i,Methylenetetrahydrofolate dehydrogenase  NAD,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+MTHFR2,"5,10-methylenetetrahydrofolate reductase (NADH)",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+MTHTHFSs,"(2R,4S)-2-methyl-2,3,3,4-tetrahydroxytetrahydrofuran synthesis (spontaneous)",0,1,0,0,0,1,0,1,1,0,1,1,1,1,1,1,0,0,1
+MTRI,5-methylthioribose-1-phosphate isomerase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+MTRK,5-methylthioribose kinase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+MXYLt5,M xylene  transport out via proton antiport  cytosolexternal,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MXYLt6,M xylene transport out via proton antiport  periplasmexternal,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M_XYLtpp,Passive diffusion,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M_Xylt1,M xylene  outer membrane porin transport,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+N2Otex,Nitrious oxide transport via diffusion (extracellular to periplasm),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+N2Otpp,Nitrious oxide transport (diffusion),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+NACt,Nicotinic acid transport,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+NADDP,NAD diphosphatase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+NADDPp_1,"NAD diphosphatase, peroxisomal",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+NADH6,NADH dehydrogenase (ubiquinone-8 & 3.5 protons),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+NADHHR,NADH hydratase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+NADHNQR,"NADH: quinone oxidoreductas, NQR-type",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+NADHXD,NADHX dehydratase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+NADHXE,NADHX epimerase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+NADK,NAD kinase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+NADKd,NAD kinase dTTP,0,0,0,1,0,1,0,1,1,1,1,0,0,1,1,0,0,0,0
+NADPHHR,NADPH hydratase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+NADPHXD,NADPHX dehydratase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+NADPHXE,NADPHX epimerase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+NADS1,NAD synthase (nh3),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+NADS2,Nicotinate-mononucleotide adenylyltransferase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+NAMNPP,Nicotinic acid mononucleotide pyrophosphorylase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+NARK,"Nitrite transport, extracellular",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+NAR_syn_2,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+NAabc,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+NAabcO,Sodium transport out via ABC system,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+NAt3_1,Sodium proton antiporter  HNA is 11,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+NAt3pp,Sodium transport out via proton antiport (cytoplasm to periplasm),0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1
+NAt6,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+NCBMPTSabcpp,Carbamoylputrescine transport via ABC system  periplasm,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+NCBMPTStex,Carbamoylputrescine transport via diffusion  extracellular to periplasm,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+NDPK4,Nucleoside-diphosphate kinase (ATP:dTDP),0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0
+NDPK6,Nucleoside-diphosphate kinase (ATP:dUDP),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+NH3c,Ammomnium proton dissociation,1,0,1,1,1,0,1,1,0,1,1,1,1,1,0,1,0,1,1
+NH4t4pp,Ammonium transport out via K+ antiport (periplasm),0,0,1,1,1,1,1,0,0,1,0,1,1,0,0,0,1,1,0
+NH4tex,Ammonia transport via diffusion (extracellular to periplasm),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+NH4tpp,Ammonia reversible transport (periplasm),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+NHFRBO,NADH:flavorubredoxin oxidoreductase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+NI2t4pp,Nickel transport out via antiport (periplasm),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+NI2uabcpp,"Nickel transport via ABC system (uptake, periplasm)",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+NITR,Nitrate reductase (NADH),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+NIabc,Nickel transport via ABC system,1,0,1,0,0,0,1,1,0,1,1,1,1,1,0,1,0,1,1
+NIt5,Nickel transport in/out via permease(noH+),1,0,1,0,0,0,1,1,0,1,1,1,1,1,0,1,0,1,1
+NMNAT,Nicotinamide-nucleotide adenylyltransferase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+NMNDA,Nicotinamide-nucleotide amidase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+NNAM,Nicotinamidase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+NNATr,Nicotinate-nucleotide adenylyltransferase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+NNDPR,Nicotinate-nucleotide diphosphorylase (carboxylating),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+NO2tex,Nitrite transport via diffusion (extracellular to periplasm),0,1,1,1,1,1,0,0,1,0,0,0,0,0,1,1,1,1,0
+NO3R1,Nitrate reductase (Ubiquinol-8),0,0,1,0,0,0,0,1,0,0,1,1,1,0,0,0,0,1,1
+NO3R1pp,Nitrate reductase (Ubiquinol-8) (periplasm),1,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0
+NO3R2pp,Nitrate reductase (Menaquinol-8) (periplasm),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NO3abc,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+NO3abcpp,Nitrate transport via ABC system (periplasm),1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+NO3tex,Nitrate transport via diffusion (extracellular to periplasm),1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+NOR_syn_1,Ferredoxin-Nitrite Reductase,0,0,1,0,1,0,1,1,0,0,1,1,1,1,0,1,0,1,1
+NOX,NADH oxidase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+NOt,NO transport (diffusion),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+NPHS,Naphthoate synthase,1,1,1,0,1,1,1,1,0,1,1,1,1,1,0,1,1,1,1
+NPHSa,Naphthoate synthase a,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NPHSb,Naphthoate synthase b,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NTD1,5'-nucleotidase (dUMP),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+NTD10,5'-nucleotidase (XMP),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+NTD2,5'-nucleotidase (UMP),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+NTD3,5'-nucleotidase (dCMP),0,0,1,1,1,0,1,1,0,0,1,0,0,1,0,0,0,1,1
+NTD5,5'-nucleotidase (dTMP),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+NTD6,5'-nucleotidase (dAMP),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+NTD7,5'-nucleotidase (AMP),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+NTD8,5'-nucleotidase (dGMP),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+NTD9,5'-nucleotidase (GMP),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+NTP1,Nucleoside-triphosphatase (ATP),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+NTP10,Nucleoside-triphosphatase (ITP),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+NTP3,Nucleoside-triphosphatase (GTP),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+NTP5,Nucleoside-triphosphatase (CTP),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+NTPP7,Nucleoside triphosphate pyrophosphorylase (dttp),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+NTPP8,Nucleoside triphosphate pyrophosphorylase (utp),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+NTPTP1,Nucleoside triphosphate tripolyhydrolase,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NTRIR2x,Nitrite Reductase (NADH),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+NTRIR3pp,"Nitrite Reductase (Ubiquinole-8, periplasm)",0,1,0,0,1,1,0,0,1,0,0,0,0,0,1,1,1,0,0
+NTRIR4pp,"Nitrite Reductase (Menaquinole-8, periplasm)",0,1,1,1,1,1,0,0,1,0,0,0,0,0,1,1,1,1,0
+O2XOADOX,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+O2tex,Oxygen transport via diffusion (extracellular to periplasm),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+O2tpp,O2 transport via diffusion (periplasm),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+O45AM,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+OAADC,Oxaloacetate decarboxylase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+OBFOX,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+OBTFL,2-Oxobutanoate formate lyase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+OCBT,Ornithine carbamoyltransferase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+OCDCAt2pp,Octadecanoate transport via proton symport,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+OCDCEAt,Octadecenoate  n C181  transport in via uniport,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+OCDCEAt2pp,Octadecenoate transport via proton symport,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+OCOAT4,3 oxoacid CoA transferase  Succinyl CoA dehydrocarnitine,1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+OCTDPS,Octaprenyl pyrophosphate synthase,1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+OHEDH,"2-oxo-hept-3-ene-1,7-dioate hydratase",1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+OIVD2E,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+OMCDC,2-Oxo-4-methyl-3-carboxypentanoate decarboxylation,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+OMPDC,Orotidine-5'-phosphate decarboxylase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+OPETDC,OPET decarboxylase,1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+OPHBDC,Octaprenyl-hydroxybenzoate decarboxylase,1,0,0,1,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+OPHHX,2-Octaprenylphenol hydroxylase,1,0,0,1,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+OPHHX3,2-Octaprenylphenol hydroxylase (anaerobic),0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+OPP,R05611,1,1,1,1,1,1,0,0,1,0,0,1,1,0,1,1,1,1,0
+OPTCCL,5 carboxy 2 oxohept 3 enedioate decarboxylation,1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+ORNCD,Ornithine cyclodeaminase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ORNR,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ORNTA,Ornithine transaminase,0,1,0,0,0,1,0,1,1,1,1,1,1,1,1,0,1,0,0
+ORNTAC,Ornithine transacetylase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ORPT,Orotate phosphoribosyltransferase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+OXADC,Oxalate decarboxylase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+OXAt,Oxalate transport in via proton symport,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+OXAt_1,,1,1,0,0,0,1,1,0,0,1,0,1,1,0,0,1,1,0,1
+OXCDC,Oxalyl-CoA decarboxylase,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+OXFOt4pp,Oxalate:Formate antiporter (periplasm),1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P52O,,1,0,0,0,1,0,0,0,0,1,0,1,1,0,0,0,0,0,1
+P5CR,Pyrroline-5-carboxylate reductase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+P9DH,,1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+PA120abcpp,"Phosphatidate transport via ABC system (n-C12:0, periplasm)",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PA140abcpp,"Phosphatidate transport via ABC system (n-C14:0, periplasm)",1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+PA141abcpp,"Phosphatidate transport via ABC system (n-C14:1, periplasm)",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PA160abcpp,"Phosphatidate transport via ABC system (n-C16:0, periplasm)",1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+PA161abcpp,"Phosphatidate transport via ABC system (n-C16:1, periplasm)",1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+PA180abcpp,"Phosphatidate transport via ABC system (n-C18:0, periplasm)",1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+PA181abcpp,"Phosphatidate transport via ABC system (n-C18:1, periplasm)",1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+PACALDt,Phenylacetaldehyde transport  extracellular,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+PACALDtex,Phenethylacetaldehyde transport via diffusion (extracellular to periplasm),1,0,0,0,0,1,1,1,0,1,1,1,1,1,0,0,0,0,1
+PACALtabcpp,Phenylacetaldehyde transport via ABC system  periplasm,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+PALDH,Phosphonoacetaldehyde hydrolase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PANO,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PANTS,Pantothenate synthase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PAPA120pp,"Phosphatidate phosphatase (periplasmic, n-C12:0)",1,1,1,1,1,1,1,0,1,1,0,1,1,0,1,1,1,1,1
+PAPA140pp,"Phosphatidate phosphatase (periplasmic, n-C14:0)",1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+PAPA141pp,"Phosphatidate phosphatase (periplasmic, n-C14:1)",0,1,1,1,1,1,0,0,1,0,0,0,0,0,1,1,1,1,0
+PAPA160pp,"Phosphatidate phosphatase (periplasmic, n-C16:0)",1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+PAPA161pp,"Phosphatidate phosphatase (periplasmic, n-C16:1)",0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,1
+PAPA180pp,"Phosphatidate phosphatase (periplasmic, n-C18:0)",1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+PAPA181pp,"Phosphatidate phosphatase (periplasmic, n-C18:1)",1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+PAPPT3,"Phospho-N-acetylmuramoyl-pentapeptide-transferase (meso-2,6-diaminopimelate)",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PBUTT,Phosphate butyryltransferase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PC,Pyruvate carboxylase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PC2DHG,,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+PDBL_3,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+PDBL_4,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+PDE1,"3',5'-cyclic-nucleotide phosphodiesterase",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PDE4,"3',5'-cyclic-nucleotide phosphodiesterase",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PDH,Pyruvate dehydrogenase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PDHa,Pyruvate dehydrogenase (lipoamide),1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PDHbr,Pyruvate dehydrogenase (dihydrolipoamide) reversible,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PDHcr,Pyruvate dehydrogenase (dihydrolipoamide dehydrogenase) reversible,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PDX5PO2,Pyridoxine 5'-phosphate oxidase (anaerboic,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PDX5POi,Pyridoxine 5'-phosphate oxidase,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PDXPP,Pyridoxine 5-phosphate phosphatase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PDYXPT_c,Pyridoxamine-pyruvic transaminase,1,0,0,0,1,0,1,1,0,1,1,1,1,1,0,0,1,0,1
+PE120abcpp,"Phosphatidylethanolamine transport via ABC system (n-C12:0, periplasm)",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PE141abcpp,"Phosphatidylethanolamine transport via ABC system (n-C14:1, periplasm)",1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+PE161abcpp,"Phosphatidylethanolamine transport via ABC system (n-C16:1, periplasm)",1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+PEAMNO2pp,Phenethylamine pqq  oxidoreductase  deaminating,1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+PEAMNtex,Phenethylamine transport via diffusion (extracellular to periplasm),1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+PEPA,MNXR86162,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+PFK,Phosphofructokinase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PFK_2,Phosphofructokinase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PFK_3,Phosphofructokinase (s7p),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PFL,Pyruvate formate lyase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PG120abcpp,"Phosphatidylglycerol transport via ABC system (n-C12:0, periplasm)",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PG140abcpp,"Phosphatidylglycerol transport via ABC system (n-C14:0, periplasm)",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PG141abcpp,"Phosphatidylglycerol transport via ABC system (n-C14:1, periplasm)",1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PG160abcpp,"Phosphatidylglycerol transport via ABC system (n-C16:0, periplasm)",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PG161abcpp,"Phosphatidylglycerol transport via ABC system (n-C16:1, periplasm)",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PG180abcpp,"Phosphatidylglycerol transport via ABC system (n-C18:0, periplasm)",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PG181abcpp,"Phosphatidylglycerol transport via ABC system (n-C18:1, periplasm)",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PGAMT,Phosphoglucosamine mutase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PGCD,Phosphoglycerate dehydrogenase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PGCM,Phosphoglucomutase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PGI,Glucose-6-phosphate isomerase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PGI1c,"Glucose-6-phosphateisomerase,glycosome",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PGK,Phosphoglycerate kinase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PGL,6-phosphogluconolactonase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PGLYCP,Phosphoglycolate phosphatase,1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+PGM,Phosphoglycerate mutase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PGMT,Phosphoglucomutase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PGMT_2,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PGPP120,Phosphatidylglycerol phosphate phosphatase (n-C14:0),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+PGPP161,Phosphatidylglycerol phosphate phosphatase (n-C16:1),1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+PGSA120,Phosphatidylglycerol synthase (n-C12:0),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+PGSA161,Phosphatidylglycerol synthase (n-C16:1),1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+PHEME2abcpp,Protoheme transport via ABC system  periplasm to cytosol,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+PHEMEabcpp,Protoheme transport via ABC system (periplasm),0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+PHEMEt,Heme transport,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PHETA1,Phenylalanine transaminase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PHEabc,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PHHL,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PHHL2,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PHNO,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PIBT,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PIabc,Phosphate transport via ABC system,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PIt7ipp,Phosphate transport in via three Na+ symporter (periplasm),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PItex,Phosphate transport via diffusion (extracellular to periplasm),1,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+PIuabcpp,"Phosphate transport via ABC system (uptake, periplasm)",0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PKETF,Phosphoketolase (fructose-6-phosphate utilizing),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+PLIPA1A120pp,"Phospholipase A1 (phosphatidate, n-C12:0) (periplasm)",0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0
+PLIPA1A141pp,"Phospholipase A1 (phosphatidate, n-C14:1) (periplasm)",1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+PLIPA1A161pp,"Phospholipase A1 (phosphatidate, n-C16:1) (periplasm)",1,0,0,0,0,0,1,0,0,1,0,1,1,0,0,0,0,0,0
+PLIPA1E120pp,"Phospholipase A1 (phosphatidylethanolamine, n-C12:0) (periplasm)",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PLIPA1E141pp,"Phospholipase A1 (phosphatidylethanolamine, n-C14:1) (periplasm)",1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+PLIPA1E161pp,"Phospholipase A1 (phosphatidylethanolamine, n-C16:1) (periplasm)",1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+PLIPA1G120pp,"Phospholipase A1 (phosphatidylglycerol, n-C12:0) (periplasm)",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PLIPA1G140pp,"Phospholipase A1 (phosphatidylglycerol, n-C14:0) (periplasm)",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PLIPA1G141pp,"Phospholipase A1 (phosphatidylglycerol, n-C14:1) (periplasm)",1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PLIPA1G160pp,"Phospholipase A1 (phosphatidylglycerol, n-C16:0) (periplasm)",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PLIPA1G161pp,"Phospholipase A1 (phosphatidylglycerol, n-C16:1) (periplasm)",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PLIPA1G180pp,"Phospholipase A1 (phosphatidylglycerol, n-C18:0) (periplasm)",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PLIPA1G181pp,"Phospholipase A1 (phosphatidylglycerol, n-C18:1) (periplasm)",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PLPS,Pyridoxal-5-phosphate synthase,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+PMANM,Phosphomannomutase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PMDPHT,Pyrimidine phosphatase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PMPK,Phosphomethylpyrimidine kinase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PNTK,Pantothenate kinase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PNTOte,Transport of (R)-Pantothenate,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1
+POR_syn,Pyruvate-ferredoxin oxidoreductase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PPA,Inorganic diphosphatase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PPA2,Inorganic triphosphatase,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PPAP_Et,Propanoyl phosphate transport (transport mechanism unknown - evidence from biolog data),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PPATabc,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PPBNGS,Porphobilinogen synthase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PPCDC,Phosphopantothenoylcysteine decarboxylase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PPDK,"Pyruvate,phosphate dikinase.",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PPGPPDP,"Guanosine-3',5'-bis(diphosphate) 3'-diphosphatase",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PPGPPDPE,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PPM,Phosphopentomutase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PPM2_2,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PPNCL2,Phosphopantothenate-cysteine ligase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PPNCL3,4'-Phosphopantothenate:L-cysteine ligase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PPND,Prephenate dehydrogenase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PPNDH,Prephenate dehydratase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PPPGO,Protoporphyrinogen oxidase (aerobic),1,0,1,1,1,1,1,1,0,1,1,1,1,1,0,1,1,1,1
+PPPGO3,Protoporphyrinogen oxidase (anaerobic),0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+PPS,Phosphoenolpyruvate synthase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PPTT,Trans pentaprenyltranstransferase,1,1,1,1,1,1,0,0,1,0,0,1,1,0,1,1,1,1,0
+PRAGSr,Phosphoribosylglycinamide synthase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PRAIS,Phosphoribosylaminoimidazole synthase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PRAMPC,Phosphoribosyl-AMP cyclohydrolase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PRASCSi,Phosphoribosylaminoimidazolesuccinocarboxamide synthase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PRATPP,Phosphoribosyl-ATP pyrophosphatase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PRFGS,Phosphoribosylformylglycinamidine synthase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PRMICI,1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino)imidazole-4-carboxamide isomerase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PRO1x,Proline oxidase  L proline  NAD,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+PRO1y,"Proline oxidase (L-proline, NADP)",1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,1
+PROHISGLUtr,Tripeptide Opp3 transport,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PROR,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PROabc,L-proline transport via ABC system,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PROabcpp,L-proline transport via ABC system (periplasm),1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+PROtex,L-proline transport via diffusion (extracellular to periplasm),1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+PRPPS,Phosphoribosylpyrophosphate synthetase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PSCVT,3-phosphoshikimate 1-carboxyvinyltransferase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PSD120,Phosphatidylserine decarboxylase (n-C12:0),1,0,0,0,0,0,1,0,0,1,0,1,1,0,0,0,0,0,0
+PSD161,Phosphatidylserine decarboxylase (n-C16:1),0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,1
+PSERT,Phosphoserine transaminase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PSP_L,Phosphoserine phosphatase (L-serine),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PSSA120,Phosphatidylserine syntase (n-C12:0),1,0,0,0,0,0,1,0,0,1,0,1,1,0,0,0,0,0,0
+PSSA161,Phosphatidylserine syntase (n-C16:1),0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,1
+PSUDS,Pseudouridylate synthase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PTA2,Phosphate acetyltransferase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PTHRP,Phospho-threonine phosphatase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PTPATi,Pantetheine-phosphate adenylyltransferase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PTRCORNt7,Putrescine/ornithine antiporter,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PTRCTA2,Putrescine Transaminase  pyruvate,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PTRCabc,Putrescine transport via ABC system,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PTRCabcpp,Putrescine transport via ABC system (periplasm),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PTRCtex,Putrescine transport via diffusion (extracellular to periplasm),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PUNP1,Purine-nucleoside phosphorylase (Adenosine),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PUNP2,Purine-nucleoside phosphorylase (Deoxyadenosine),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PUNP3,Purine-nucleoside phosphorylase (Guanosine),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PUNP4,Purine-nucleoside phosphorylase (Deoxyguanosine),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PUNP5,Purine-nucleoside phosphorylase (Inosine),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PUNP6,Purine-nucleoside phosphorylase (Deoxyinosine),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PUNP7,Purine-nucleoside phosphorylase (Xanthosine),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PXYLt5,P xylene  transport out via proton antiport  cytosolexternal,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PXYLt6,P xylene transport out via proton antiport  periplasmexternal,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PYAM5PO,Pyridoxamine 5'-phosphate oxidase,0,0,0,0,0,0,1,1,0,0,1,0,0,1,0,0,1,0,0
+PYDAMK,Pyridoxamine kinase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PYDXK_1,Pyridoxal kinase,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+PYDXNK,Pyridoxine kinase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PYDXNtr,Pyridoxine transport via diffusion,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PYDXPP,Pyridoxal 5-phosphate phosphatase,1,0,0,0,1,0,1,1,1,1,1,1,1,1,1,0,1,0,1
+PYDXS,Pyridoxal 5-phosphate synthase,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1
+PYK,Pyruvate kinase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PYK2,Pyruvate kinase(2),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PYK3,Pyruvate kinase(3),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PYK4,Pyruvate kinase(4),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PYK5,Pyruvate kinase(5),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PYK6,RE2954,1,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1
+PYNP1,Pyrimidine-nucleoside phosphorylase (cytosine),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PYNP2r,Pyrimidine-nucleoside phosphorylase (uracil),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PYOVD2tex,Pyoverdine export system,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+P_XYLtpp,P methyltoluene passive diffusion,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P_Xylt1,P xylene  outer membrane porin transport,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+QMO2,Quinol monooxygenase (Ubiquinol-8),1,0,1,0,1,1,1,0,0,1,0,0,0,0,0,1,0,1,0
+QMO3,Quinol monooxygenase (menaquinol 8),0,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1
+QULNS,Quinolinate synthase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+R1PI,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+R5PP,Ribose 5-phosphate phosphatase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+RBFK,Riboflavin kinase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+RBFSa,Riboflavin synthase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+RBFSb,Riboflavin synthase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+RBK,Ribokinase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+RBK_L1,L-ribulokinase (L-ribulose),0,1,1,1,1,1,0,0,1,0,0,0,0,0,1,1,1,1,0
+RBP4E,L-ribulose-phosphate 4-epimerase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+RECOAH26,3 hydroxyacyl Coa dehydratase   R  3 hydroxy  4Z  decenyl CoA,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+RECOAH4,3 hydroxyacyl Coa dehydratase   3R  3 hydroxydecanoyl CoA,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+RHA100tex,R 3 Hydroxy acid transport diffusion C100  extracellular to periplasm,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+RHA100tpp,R 3 Hydroxy acid transport diffusion C100   periplasm,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+RHA101tex,R 3 Hydroxy acid transport diffusion C101  extracellular to periplasm,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+RHA101tpp,R 3 Hydroxy acid transport diffusion C101   periplasm,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+RHA40tpp,R 3 Hydroxy acid transport diffusion C40   periplasm,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+RHACOAE100,R hydroxy acyl CoA thioesterase  C100,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+RHCCE,S-ribosylhomocysteine cleavage enzyme,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+RIBFLVt2,Riboflavin transport in via proton symport,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+RIBabc,D-ribose transport via ABC system,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+RMI,L-rhamnose isomerase,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1
+RMK,Rhamnulokinase,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1
+RMN_Et,L-Rhamnose transport (transport mechanism unknown - evidence from biolog data),1,1,1,1,1,1,0,1,1,0,1,1,1,1,1,1,1,1,0
+RMNabc,L-rhamnose transport (ATP-dependent),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+RMPA,Rhamnulose-1-phosphate aldolase,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1
+RNDR1,Ribonucleoside-diphosphate reductase (ADP),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+RNDR2,Ribonucleoside-diphosphate reductase (GDP),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+RNDR3,Ribonucleoside-diphosphate reductase (CDP),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+RNDR4,Ribonucleoside-diphosphate reductase (UDP),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+RNTR1,Ribonucleoside triphosphate reductase  ATP,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+RNTR2,Ribonucleoside triphosphate reductase  GTP,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+RNTR2_2,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+RNTR3,Ribonucleoside triphosphate reductase  CTP,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+RNTR3_2,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+RNTR4,Ribonucleoside triphosphate reductase  UTP,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+RNTR4_2,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+RPE,Ribulose 5-phosphate 3-epimerase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+RPI,Ribose-5-phosphate isomerase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+S6PG,Salicin 6 phosphate glucohydrolase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+SALADC2,Sulfinoalanine decarboxylase,1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+SALCHS4FER1,Salmochelin S4 Fe III reduction Fe III unloading,1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+SALCHS4FEabcpp,Salmochelin S4 Fe III transport via ABC system periplasm,1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+SALCHS4FEtonex,Salmochelin S4 Fe III transport via ton system extracellular,1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+SALCHS4abcpp,Salmochelin S4 transport via ABC system periplasm,1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+SALCHS4tex,Salmochelin S4 transport secretion periplasm,1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+SALCpts,Salicin transport via PEP:Pyr PTS,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+SAMU3,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+SAOR,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+SARCOX,Sarcosine oxidase,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+SARCOX2,Sarcosine oxidase  tetrahydrofolate dependent,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1
+SBP,Sedoheptulose-bisphosphatase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+SBTD_D2,D sorbitol dehydrogenase  D fructose producing,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+SBTPD,Sorbitol-6-phosphate dehydrogenase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+SBTpts,D-sorbitol transport via PEP:Pyr PTS,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+SBTt2,D sorbitol transport in via proton symport,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+SCYSSL,S-sulfo-L-cysteine sulfite lyase,1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+SDPDS,Succinyl-diaminopimelate desuccinylase,1,1,1,0,0,1,0,0,1,1,0,1,1,0,1,1,1,1,0
+SDPTA,Succinyldiaminopimelate transaminase,1,1,1,0,0,1,0,0,1,1,0,1,1,0,1,1,1,1,0
+SELR,Selenate reductase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+SELTt,"Selenite transport via diffusion, cytosol",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+SELabcpp,Selenatenate transport via ABC system (periplasm),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+SELtex,Selenate transport via diffusion (extracellular to periplasm),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+SERAT,Serine O-acetyltransferase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+SERDA,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+SERD_D,D-serine deaminase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+SERD_L,L-serine deaminase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+SERGLUGLNtr,Tripeptide transport,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+SERR,Serine racemase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+SERabc,L-serine transport via ABC system,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+SHCHD2,Sirohydrochlorin dehydrogenase (NAD),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+SHCHF,Sirohydrochlorin ferrochelatase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+SHK3Dr,Shikimate dehydrogenase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+SHKK,Shikimate kinase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+SHSL1,O-succinylhomoserine lyase (L-cysteine),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+SHSL2r,O-succinylhomoserine lyase (H2S),0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1
+SHSL4r,O succinylhomoserine lyase  elimination   reversible,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1
+SKDH_1,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+SLCYSS,O-acetyl-L-serine sulfhydrylase,1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+SLGH,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+SMIA1,Staphyloferrin A Mediated Iron Acquisition,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+SMIA1Eabc,Siderophore Mediated Iron Acquisition: Staphyloferrin A export,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+SMIA1abc,Siderophore Mediated Iron Acquisition: Staphyloferrin A transport via ABC,1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+SMIA2abc,Siderophore Mediated Iron Acquisition: Staphyloferrin B transport via ABC,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+SMIB1,Staphyloferrin B Mediated Iron Acquisition,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+SO3abcpp,Sulfite transport via ABC system (periplasm),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+SO3tex,Sulfite transport via diffusion (extracellular to periplasm),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+SO4tex,Sulfate transport via diffusion (extracellular to periplasm),1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+SPMDabc,Spermidine transport via ABC system,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+SPMDabcpp,Spermidine transport via ABC system (periplasm),1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SPMDt3i,Spermidine transport in via proton antiport,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+SPMDt3pp,Spermidine transport out via proton antiport (periplasm),1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SPMS,Spermidine synthase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+SPODM,Superoxide dismutase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+SPT_syn,Serine-glyoxilate aminotransferase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+SPTc,Serine-pyruvate aminotransferase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+SR3,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+SR5,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+SSAH,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+SSALx,Succinate-semialdehyde dehydrogenase (NAD),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+SSALy,Succinate-semialdehyde dehydrogenase (NADP),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+SSCOARy,Succinyl-coA reductase (NADPH),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+STAS,Staphyloferrin A synthase,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+STFRNBt,,1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+SUCBZL,O-succinylbenzoate-CoA ligase,1,0,0,0,0,0,0,1,0,0,1,1,1,1,0,0,1,0,1
+SUCBZL_1,O-succinylbenzoate-CoA ligase,0,1,1,1,1,1,1,0,1,1,0,0,0,0,1,1,0,1,0
+SUCBZS,O-succinylbenzoate-CoA synthase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+SUCBZT1,Succinyl:benzoate CoA transferase,0,1,1,1,0,1,0,0,1,0,0,0,0,0,1,1,0,1,0
+SUCCt,Succinate transport via diffusion,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1
+SUCCt2_2pp,Succinate transport via proton symport (2 H) (periplasm),0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+SUCCt2r,Succinate transport via proton symport,1,1,1,1,1,1,1,0,1,1,0,1,1,0,1,1,1,1,1
+SUCCtex,Succinate transport via diffusion (extracellular to periplasm),0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+SUCFUMt,Succinate:fumarate antiporter,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SUCMALt,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+SUCOAACTr,Succinyl-CoA:acetate CoA transferase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+SUCOAS,Succinyl-CoA synthetase (ADP-forming),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+SUCR,Sucrose hydrolyzing enzyme,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+SUCRt2,Sucrose transport in via proton symport,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+SUCpts,Sucrose transport via PEP:Pyr PTS,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+SULR,Sulfite reductase (NADPH2),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+SULabc,Sulfate transport via ABC system,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+SULabcpp,Sulfate transport via ABC system (periplasm),1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+St,Sulfur diffusion,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0
+T2ECR,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+TAGURr,Tagaturonate reductase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+TAGabc,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+TALA,Transaldolase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+TAURabc,Taurine transport via ABC system,1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+TCYNTtex,Thiocyanate transport via diffusion (extracellular to periplasm),1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+TCYNTtpp,Thiocyanate transport via diffusion  periplasm to periplasm,1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+TDP,Thiamin pyrophosphatase,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+TETDHpp1,Tetrathionate Dehydrogenase menaquinone 8  periplasm,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1
+TETtex,Tetrathionate transport via diffusion extracellular to periplasm,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1
+TGBPA,Tagatose-bisphosphate aldolase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+TGTpts,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+THDPS,Tetrahydrodipicolinate succinylase,1,1,1,0,0,1,0,0,1,1,0,1,1,0,1,1,1,1,0
+THFAT,Tetrahydrofolate aminomethyltransferase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+THIH,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+THIORDXi,Hydrogen peroxide reductase (thioredoxin),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+THMDP,Acidphosphatase,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+THMP,Thiamin phosphatase,1,1,1,1,1,1,0,0,1,0,0,1,1,0,1,1,1,1,0
+THMt2,Thiamine transport in via proton symport,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+THMtrbc,Thiamine transprot (passive - red blood cell),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0
+THPAT,"L-2,3,4,5-tetrahydrodipicolinate N2-acetyltransferase",0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+THRA,Threonine aldolase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+THRD,L-threonine dehydrogenase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+THRD_L,L-threonine deaminase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+THRPDC,L threonine phosphate decarboxylase,1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+THRS,Threonine synthase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+THRabc,L-threonine transport via ABC system,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+THYMt,Thymine reversible transport via facilated diffusion,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+THZPSN,Thiazole phosphate synthesis,1,1,0,0,0,1,0,0,1,1,0,0,0,0,1,1,1,0,0
+THZPSN2,Thiazole phosphate synthesis,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+THZSN,THZSN,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0
+THZSN_1,Thiazole synthesis from xylulose,1,0,0,0,0,0,1,0,0,1,0,1,1,0,0,0,0,0,1
+TKT1,Transketolase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+TKT2,Transketolase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+TMAMt,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+TMDPK,Thiamine diphosphokinase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+TMDPP,Thymidine phosphorylase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+TMDS,Thymidylate synthase,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TMDS3,Thymidylate synthase (FAD dependent),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+TMN,Thiaminase,0,1,1,1,1,1,0,0,1,0,0,0,0,0,1,1,1,1,0
+TMPK,Thiamine-phosphate kinase,1,0,0,0,0,0,1,1,0,1,1,0,0,1,0,0,1,0,1
+TMPPP,Thiamine-phosphate diphosphorylase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+TOLt5,Toluene  transport out via proton antiport  cytosolexternal,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TOLt6,Toluene transport out via proton antiport  periplasmexternal,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TOLtex,Toluene  outer membrane porin transport,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TOLtpp,Toluene transport via diffusion,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TPHAP,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+TPI,Triose-phosphate isomerase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+TRDR,Thioredoxin reductase (NADPH),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+TRE6PH,Trehalose-6-phosphate hydrolase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+TREP,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+TREpts,Trehalose transport via PEP:Pyr PTS,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+TRPAS1,Tryptophanase  L cysteine,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1
+TRPAS2,Tryptophanase (L-tryptophan),1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TRPTA,Tryptophan transaminase,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,1
+TRPabc,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+TRPt2r,L tryptophan reversible transport via proton symport,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+TRSARr,Tartronate semialdehyde reductase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+TRSARyr,Tartronate semialdehyde reductase (NADP),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+TSULR3e,Thiosulfate Reductase,1,0,0,0,0,0,1,0,0,1,0,1,1,0,0,0,0,0,1
+TSULabcpp,Thiosulfate transport via ABC system (periplasm),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+TTDCAt2pp,Tetradecanoate transport via proton symport,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+TTONR1pp,Trithionate Reductase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0
+TTONtex,Trithionate transport,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0
+TTRCYCt2pp,Tetracycline transport,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TTRCYCt5,Tetracycline transport via TtgABC  system,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TTRCYCtex,Tetracycline transport via diffusion (extracellular to periplasm),1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TTRCYCtpp,Tetracycline transport via TolC system,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TYRTA,Tyrosine transaminase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+TYRabc,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+UAAGDS,"UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimelate synthetase",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+UAG2EMA,UDP-N-acetyl-D-glucosamine 2-epimerase (Hydrolysis),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+UAGCVT,UDP-N-acetylglucosamine 1-carboxyvinyltransferase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+UAGDP,UDP-N-acetylglucosamine diphosphorylase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+UAGHD,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+UAGPT3,UDP-N-acetylglucosamine-N-acetylmuramyl-(pentapeptide)pyrophosphoryl-undecaprenol N-acetylglucosamine transferase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+UAMAGS,UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+UAMAS,UDP-N-acetylmuramoyl-L-alanine synthetase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+UAPGR,UDP-N-acetylenolpyruvoylglucosamine reductase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+UDCPDP,Undecaprenyl-diphosphatase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+UDCPDPS,Undecaprenyl diphosphate synthase,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+UDCPPtexi,Undecaprenyl phosphate transport (external to cytoplasm),0,0,0,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,1
+UDPDPS2,UDPDPS2,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+UDPG4E,UDPglucose 4-epimerase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+UGLT,UDPglucose--hexose-1-phosphate uridylyltransferase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+UGMDDS,"UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine synthetase",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+UM3PL,UDP-N-acetylmuramate:L-alanyl-gamma-D-glutamyl-meso-diaminopimelate ligase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+UM4PCP,"UDP-N-acetylmuramoyl-L-alanyl-D-gamma-glutamyl-meso-2,6-diaminopimelate-D-alanine L,D-carboxypeptidase",1,0,0,0,1,0,1,1,1,1,1,1,1,1,1,0,0,0,1
+UM4PL,UDP-N-acetylmuramate:L-alanyl-gamma-D-glutamyl-meso-diaminopimelate-D-alanine ligase,1,0,0,0,1,0,1,1,1,1,1,1,1,1,1,0,0,0,1
+UMPK,UMP kinase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+UPP3MT,Uroporphyrinogen methyltransferase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+UPP3S,Uroporphyrinogen-III synthase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+UPPDC1,Uroporphyrinogen decarboxylase (uroporphyrinogen III),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+UPPRT,Uracil phosphoribosyltransferase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+URAt,Uracil transport via facilated diffusion,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+URAt2,Uracil transport in via proton symport,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+UREASE,Urea carboxylase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+URIDK2r,Uridylate kinase (dUMP),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+URIK1,Uridine kinase  ATPUridine,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+URIK2,Uridine kinase (GTP:Uridine),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+URIK3,Uridine kinase (ITP:Uridine),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+UT6PT,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+UTCY,UTP:cytidine 5'-phosphotransferase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+UTUP,UTP:uridine 5'-phosphotransferase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+VACOAI,Vinylacetyl-CoA Delta-isomerase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+VACOAI_2,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+VALTA,Valine transaminase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+VALabc,L-valine transport via ABC system,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+VALabcpp,L-valine transport via ABC system (periplasm),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+VALt2r,L valine reversible transport via proton symport,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+VALt2rpp,L-valine reversible transport via proton symport (periplasm),1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+VALt3pp,L-valine transport out via proton antiport (periplasm),0,1,1,1,1,1,0,0,1,0,0,0,0,0,1,1,1,1,0
+VALtex,L-valine transport via diffusion (extracellular to periplasm),1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+VNDH_2,4-hydroxybenzaldehyde dehydrogenase,1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+VOR2bE,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+VPAMTr,Valine-pyruvate aminotransferase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+X5PL3E,L-xylulose 5-phosphate 3-epimerase,1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+XANt2,Xanthine transport in via proton symport,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+XANt3,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+XPPT,Xanthine phosphoribosyltransferase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+XTSNH,Xanthosine hydrolase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+XYLI1,Xylose isomerase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+XYLI2,Xylose isomerase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+XYLK,Xylulokinase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+XYLabc,D-xylose transport via ABC system,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+XYLt,D xylose reversible transport,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+XYLt2,D-xylose transport in via proton symport,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+YUMPS,YUMP synthetase,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ZN2t4,Zinc transport out via antiport,0,1,1,1,0,1,0,0,1,0,0,0,0,0,1,1,0,1,0
+ZN2t4pp,Zinc transport out via antiport (periplasm),1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+ZN2tpp,Zinc transport in via permease (no H+),1,0,0,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0
+ZNabc,Zinc transport via ABC system,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Zn2tex,Zinc (Zn+2) transport via diffusion (extracellular to periplasm),0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1
+araphe1,Aromatic amino acid aminotransferase phenylalanine,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+r0191,UTP:D-fructose-6-phosphate 1-phosphotransferase EC:2.7.1.11,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+r0280,DATP:pyruvate O2-phosphotransferase Purine metabolism EC:2.7.1.40,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+r0963,Facilitated diffusion,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+r1143,Major Facilitator(MFS) TCDB:2.A.18.6.3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+r2136,Major Facilitator(MFS) TCDB:2.A.1.14.6,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+r2465_1,Cation Diffusion Facilitator (Cdf) Tcdb:2.A.4.2.3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+sink_2ohph_c,R_sink_2ohph_c,1,0,0,1,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+sink_4hba_c,R_sink_4hba_c,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0
+sink_aacald_c,R_sink_aacald_c,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0
+sink_hmfurn_c,R_sink_hmfurn_c,0,0,1,1,1,0,1,0,0,1,0,0,0,0,0,0,0,1,0
+sink_lipopb_c,R_sink_lipopb_c,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+sink_mobd_c,R_sink_mobd_c,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+sink_mththf_c,R_sink_mththf_c,0,1,0,0,0,1,0,1,1,0,1,1,1,1,1,1,0,0,1
+sink_sheme_c,R_sink_sheme_c,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
